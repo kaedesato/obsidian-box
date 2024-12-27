@@ -30,25 +30,25 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#F2F2F2", //page background
+          lightgray: "#e8e8e8", //borders
+          gray: "#bfbfbf", //graph links, heavier borders
+          darkgray: "#5c5c5c", //body text
+          dark: "#333333", //header text and icons
+          secondary: "#F7CAC9", //link colour, current graph node
+          tertiary: "#2C3E50", //hover states and visited graph node
+          highlight: "rgba(165, 165, 165, 0.15)", //internal link background, highlighted text,
+          textHighlight: "#fff23688", //markdown highlighted text background
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#0F1C2E",
+          lightgray: "#1f2b3e",
+          gray: "#374357",
+          darkgray: "#e0e0e0",
+          dark: "#FAFAFA",
+          secondary: "#acc2ef",
+          tertiary: "#1F3A5F",
+          highlight: "rgba(165, 165, 165, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
