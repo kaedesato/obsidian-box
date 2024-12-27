@@ -30,15 +30,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f4fbfa", //page background
-          lightgray: "#d5dbdb", //borders
-          gray: "#3b4545", //graph links, heavier borders
-          darkgray: "#1c2626", //body text
-          dark: "#000000", //header text and icons
-          secondary: "#002729", //link colour, current graph node
-          tertiary: "#0f223d", //hover states and visited graph node
-          highlight: "rgba(165, 165, 165, 0.15)", //internal link background, highlighted text,
-          textHighlight: "#fff23688", //markdown highlighted text background
+          light: "#f4fbfa", 
+          lightgray: "#d5dbdb",
+          gray: "#3b4545", 
+          darkgray: "#1c2626",
+          dark: "#000000", 
+          secondary: "#002729", 
+          tertiary: "#0f223d", 
+          highlight: "rgba(165, 165, 165, 0.15)", 
+          textHighlight: "#fff23688", 
         },
         darkMode: {
           light: "#0e1415",
