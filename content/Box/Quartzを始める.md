@@ -1,6 +1,7 @@
 
 https://quartz.jzhao.xyz/
 
+https://zenn.dev/miroscular/articles/3799028b4487c7
 
 アップロード先は、Cloudflare Pages
 > GitHub Pagesだと商用利用不可
