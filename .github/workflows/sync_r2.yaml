@@ -13,8 +13,7 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-
-    - name: Configure AWS credentials
+      
     - name: Configure R2 credentials
       run: |
         aws configure set aws_access_key_id "${{ secrets.R2_ACCESS_KEY_ID }}"
