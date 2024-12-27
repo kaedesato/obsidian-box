@@ -1,0 +1,41 @@
+name: Sync and Commit S3 Data
+
+on:
+  # github actionsをトリガーするスケジュール。 ... (1)
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手動トリガー
+
+jobs:
+  fetch_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        aws-region: auto
+
+    # AWS S3 との同期 ... (2)
+    - name: Fetch data from S3
+      run: aws s3 sync https://90751f88f383bf10bae596fcb5dafde3.r2.cloudflarestorage.com/obsidian ./content --delete
+
+    # gitの差分がないときにコミットしないようにチェック ... (3)
+    - name: check for changes
+      run: |
+        git add -A
+        git diff --staged --quiet || echo "git_changed=true" >> $GITHUB_ENV
+
+    - name: Commit changes
+      if: env.git_changed == 'true'
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add -A
+        git commit -m 'Sync data with S3'
+        git push origin v4
