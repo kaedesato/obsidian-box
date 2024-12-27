@@ -1,3 +1,5 @@
+[[Obsidian]]
+
 
 https://quartz.jzhao.xyz/
 
@@ -12,20 +14,18 @@ https://quartz.jzhao.xyz/features/social-images
 > GitHub Pagesだと商用利用不可
 
 
-- [ ] git 
-- [ ] node
-- [ ] git clone
-- [ ] npm i
-- [ ] build
+
 - [ ] Cloudflareにアップロード
 
 
 
 ### Buildで出てきたPublicをCloudflare Pagesにアップロードするだけでできそう？
-
+できた。
 
 
 ### 手動＆ローカル環境でWeb公開する
+これいらない気がする。
+普通にGitHubで直接フォークする方が良い
 
 
 

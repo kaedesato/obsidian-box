@@ -1,3 +1,9 @@
 
 
-![[Obsidianのいいところ#文字列検索して自動で抽出してくれる]]
+## index
+
+- [[Obsidianのいいところ]]
+- [[Obsidian事始め]]
+	- [[Obsidianを同期する]]
+	- [[Quartzを始める]]
+- 
