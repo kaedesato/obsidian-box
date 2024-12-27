@@ -23,7 +23,7 @@ jobs:
 
     # AWS S3 との同期 ... (2)
     - name: Fetch data from S3
-      run: aws s3 sync s3://obsidian ./content --delete
+      run: aws s3 sync s3://obsidian ./content --delete --endpoint-url https://90751f88f383bf10bae596fcb5dafde3.r2.cloudflarestorage.com/
 
     # gitの差分がないときにコミットしないようにチェック ... (3)
     - name: check for changes
