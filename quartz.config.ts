@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Kaisei Decol",
-        body: "Kaisei Decol",
-        code: "IBM Plex Mono",
+        header: "M PLUS Rounded 1c",
+        body: "M PLUS Rounded 1c",
+        code: "BIZ UDGothic",
       },
       colors: {
         lightMode: {
