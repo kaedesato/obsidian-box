@@ -4,6 +4,8 @@
 一番かんたんなやり方は、Remotely Saveを使う方法です。
 今回は無料枠が充実しているCloudflareのストレージを同期サーバーにします。
 
+[[DropboxでObsidianを同期する]]
+
 ### Cloudflareの準備
 
 ![[Cloudflareのアカウントを作る]]
