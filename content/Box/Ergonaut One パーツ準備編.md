@@ -84,3 +84,4 @@ MSK-12C02 SPDT Switch
 Li-Po Battery 601730 With Protection
 
 バッテリーです。プロテクションがついているものを購入してください。
+
