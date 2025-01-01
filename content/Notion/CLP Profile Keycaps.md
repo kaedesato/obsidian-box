@@ -1,14 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
-関連:
-  - "[[キーキャップ]]"
-  - "[[Lame Profile Keycaps]]"
-2ホップリンク: https://www.notion.so/14b1121f1cf6808f9dfddf4cda561ee2, https://www.notion.so/1531121f1cf68026b820e4023086a2a0, https://www.notion.so/1641121f1cf68026a43ffcf7776531ba, https://www.notion.so/d7a36717a1b64ed98775fb7dc5b9e68f, https://www.notion.so/e8bbbf17289e428890843b5b7b141c83,https://www.notion.so/1641121f1cf68026a43ffcf7776531ba, https://www.notion.so/7f66599e8a6c4c219e9bb986436c1ed1
-date: 2024-12-27T22:34
-modified: 2024-12-27T22:34
-created: 2024-12-27T22:34
+modified: 2025-01-02T00:35
 ---
 [https://github.com/vvhg1/clp-keycaps](https://github.com/vvhg1/clp-keycaps)
 

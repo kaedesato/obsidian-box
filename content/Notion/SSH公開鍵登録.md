@@ -1,10 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
-date: 2024-12-27T22:36
-modified: 2024-12-27T22:36
-created: 2024-12-27T22:36
+modified: 2025-01-02T00:35
 ---
 # SSH公開鍵登録
 

@@ -1,14 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
-関連:
-  - "[[YouTubeのサムネ比較がシンギュラリティかもしれない]]"
-  - "[[YouTubeの公式プロモーション機能について]]"
-2ホップリンク: https://www.notion.so/2f920a291da54695b07771d9b7eb051a
-date: 2024-12-27T22:34
-modified: 2024-12-27T22:34
-created: 2024-12-27T22:34
+modified: 2025-01-02T00:34
 ---
   
 

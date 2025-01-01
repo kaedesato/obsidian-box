@@ -1,13 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
-関連:
-  - "[[Fractal Design Ridge 運用メモ]]"
-2ホップリンク: https://www.notion.so/10e1121f1cf680c4a8c5cecac6b48a9d, https://www.notion.so/1201121f1cf680deb46eef35d04c268d, https://www.notion.so/1271121f1cf680238e6cff8c963cf890
-date: 2024-12-27T22:34
-modified: 2024-12-27T22:34
-created: 2024-12-27T22:34
+modified: 2025-01-02T00:35
 ---
   
 

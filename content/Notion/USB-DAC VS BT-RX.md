@@ -1,13 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
-関連:
-  - "[[BTR3K マニュアル]]"
-2ホップリンク: https://www.notion.so/8dbaf607d5e741b893b0ba5c69c7552b, https://www.notion.so/ed93704695a74c1fa257e37a68ac87c9
-date: 2024-12-27T22:35
-modified: 2024-12-27T22:35
-created: 2024-12-27T22:35
+modified: 2025-01-02T00:35
 ---
   
 

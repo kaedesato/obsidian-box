@@ -1,13 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
-関連:
-  - "[[Xのコミュニティはプレミアム限定だった]]"
-2ホップリンク: https://www.notion.so/1531121f1cf68069b7eaeacc12a5a554
-date: 2024-12-27T22:36
-modified: 2024-12-27T22:36
-created: 2024-12-27T22:36
+{}
 ---
 #### box
 

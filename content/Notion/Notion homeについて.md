@@ -1,10 +1,5 @@
 ---
-Q: true
-pin: false
-最終更新日時: Invalid date
-date: 2024-12-27T22:35
-modified: 2024-12-27T22:35
-created: 2024-12-27T22:35
+modified: 2025-01-02T00:35
 ---
 > [!info] Home and My tasks – Notion Help Center  
 > Homes gives you a view of all of the docs and tasks that need your attention 🏡  

@@ -1,21 +1,5 @@
 ---
-Q: false
-pin: true
-最終更新日時: Invalid date
-関連:
-  - "[[メディア関連インデックス]]"
-  - "[[かえでちゃんメディアメモ]]"
-  - "[[かえでちゃん頻出用語集]]"
-  - "[[かえでちゃん伝説集]]"
-  - "[[かえでちゃんロゴデザイン]]"
-  - "[[グッズの案]]"
-  - "[[かえで-V3.1計画]]"
-  - "[[シャインマスカットはそんなに美味しくない]]"
-  - "[[推し活ガイドライン]]"
-2ホップリンク: https://www.notion.so/c7e93087af364bbfab10199ea5cf18e7,https://www.notion.so/422186fdd5144ba4b22d917f86c39d80, https://www.notion.so/7a34450e09884faabf260266a16f018b, https://www.notion.so/c7e93087af364bbfab10199ea5cf18e7
-date: 2024-12-27T22:35
-modified: 2024-12-27T22:35
-created: 2024-12-27T22:35
+modified: 2025-01-02T00:35
 ---
   
 

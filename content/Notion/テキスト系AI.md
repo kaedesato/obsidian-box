@@ -1,15 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
-関連:
-  - "[[Open AI APIの無料枠は3ヶ月の有効期限がある]]"
-  - "[[勉強の優先順位]]"
-  - "[[ChatGPT活用方法]]"
-2ホップリンク: https://www.notion.so/0a19f9cb4caa4774a625aee392d96ee9
-date: 2024-12-27T22:36
-modified: 2024-12-27T22:36
-created: 2024-12-27T22:36
+modified: 2025-01-02T00:35
 ---
   
 
