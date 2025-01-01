@@ -6,5 +6,7 @@ pin: false
   - "[[Notionでコードブロック]]"
 2ホップリンク: https://www.notion.so/b90e5b68d9d2420b82499b4225ee5161
 date: 2024-12-27T22:35
+modified: 2024-12-27T22:35
+created: 2024-12-27T22:35
 ---
 ↑バックリンクも表示できるらしい

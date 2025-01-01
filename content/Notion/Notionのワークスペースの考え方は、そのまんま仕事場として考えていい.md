@@ -3,6 +3,8 @@ Q: true
 pin: false
 最終更新日時: Invalid date
 date: 2024-12-27T22:34
+modified: 2024-12-27T22:34
+created: 2024-12-27T22:34
 ---
 # Notionのワークスペースの考え方は、そのまんま仕事場として考えていい
 

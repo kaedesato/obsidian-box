@@ -3,6 +3,8 @@ Q: false
 pin: false
 最終更新日時: Invalid date
 date: 2024-12-27T22:34
+modified: 2024-12-27T22:34
+created: 2024-12-27T22:34
 ---
 Yamagata, where I live, is said to be a sacred place for ramen.
 
