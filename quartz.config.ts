@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "obsidian.kaedesato.work",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
