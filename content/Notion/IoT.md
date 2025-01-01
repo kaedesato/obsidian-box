@@ -6,6 +6,8 @@ pin: false
   - "[[ラズパイのランニングコスト]]"
 2ホップリンク: https://www.notion.so/878399cb0c6748f4bc7adc1d0e362246, https://www.notion.so/ec767189026a4050a4b3163e66bc8393
 date: 2024-12-27T22:36
+modified: 2024-12-27T22:36
+created: 2024-12-27T22:36
 ---
   
 

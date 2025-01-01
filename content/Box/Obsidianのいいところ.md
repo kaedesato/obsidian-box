@@ -1,5 +1,7 @@
 ---
 date: 2024-12-27T21:23
+modified: 2024-12-27T21:23
+created: 2024-12-27T21:23
 ---
 ### tags
 [[Obsidian]]
