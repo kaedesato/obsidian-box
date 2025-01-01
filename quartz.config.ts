@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "ja-JP",
     baseUrl: "obsidian.kaedesato.work",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "published",
+    defaultDateType: "created",
     generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
