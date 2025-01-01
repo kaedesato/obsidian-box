@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2025-01-01T20:02
+date: 2025-02-20T20:02:00
 socialImage: https://i.imgur.com/QgJotNV.jpeg
 ---
 
