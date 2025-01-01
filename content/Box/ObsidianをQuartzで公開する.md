@@ -17,12 +17,6 @@ https://quartz.jzhao.xyz/features/social-images
 
 
 
-- [ ] Cloudflareにアップロード
-
-
-
-### Buildで出てきたPublicをCloudflare Pagesにアップロードするだけでできそう？
-できた。
 
 
 ### 手動＆ローカル環境でWeb公開する
@@ -35,4 +29,15 @@ https://quartz.jzhao.xyz/features/social-images
 - [ ] 後で書く
 
 
-###  imgurを使って画像をアップロードする
+### 最低限のQuartzの設定
+- 11:pageTitle
+- 18:locale
+- 19:baseUrl
+- ２１：defaultDateType
+- 27:typography header
+- 28:typography body
+
+
+
+## 画像の容量を何とかする
+### imgurを使って画像をアップロードする
