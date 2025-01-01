@@ -5,6 +5,7 @@ pin: false
 関連:
   - "[[VTuberになるのにかかった費用]]"
 2ホップリンク: https://www.notion.so/1261121f1cf6800ead5dede33a86d29a
+date: 2024-12-27T22:35
 ---
   
 

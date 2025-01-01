@@ -1,3 +1,6 @@
+---
+date: 2024-11-08T23:47:00
+---
 
 
 [[Obsidian]]
@@ -40,6 +43,9 @@ https://quartz.jzhao.xyz/features/social-images
 
 https://quartz.jzhao.xyz/plugins/CreatedModifiedDate
 
+なんか、日時がうまくいかなかったので、
+https://pouhon.net/obsidian-plugins-update-time-on-edit/8040/
+これで解決
 
 
 ## 画像の容量を何とかする

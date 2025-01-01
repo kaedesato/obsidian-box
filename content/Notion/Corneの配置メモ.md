@@ -8,6 +8,7 @@ pin: false
   - "[[配列を考えよう]]"
   - "[[大西配列]]"
 2ホップリンク: https://www.notion.so/1431121f1cf680bcb478f039a051e391, https://www.notion.so/1461121f1cf680cead77c5c43926a326, https://www.notion.so/1471121f1cf68081b4b1d9022df66d15, https://www.notion.so/15d1121f1cf680818bd9ccc72fc37032, https://www.notion.so/7f66599e8a6c4c219e9bb986436c1ed1,https://www.notion.so/1471121f1cf68081b4b1d9022df66d15,https://www.notion.so/1461121f1cf68035ada5c1350efb2943, https://www.notion.so/1471121f1cf68081b4b1d9022df66d15
+date: 2024-12-27T22:35
 ---
 > [!important] 正直、アルファベットの配置より、各種ショートカットキーをどう入力するのかのほうが重要だなと思ってきた
 

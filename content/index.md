@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2030-01-01
+date: 2025-01-01T20:02
 socialImage: https://i.imgur.com/QgJotNV.jpeg
 ---
 

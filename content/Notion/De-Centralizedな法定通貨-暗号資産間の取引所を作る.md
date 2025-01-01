@@ -2,6 +2,7 @@
 Q: true
 pin: false
 最終更新日時: Invalid date
+date: 2024-12-27T22:34
 ---
 # De-Centralizedな法定通貨-暗号資産間の取引所を作る
 

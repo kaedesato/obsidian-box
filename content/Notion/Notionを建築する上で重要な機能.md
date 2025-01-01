@@ -2,6 +2,7 @@
 Q: true
 pin: false
 最終更新日時: Invalid date
+date: 2024-12-27T22:34
 ---
 # Notionを建築する上で重要な機能
 

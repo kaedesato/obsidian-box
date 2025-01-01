@@ -5,6 +5,7 @@ pin: false
 関連:
   - "[[サムネを依頼するより、YouTubeのプロモーションにお金をかけたほうが良い]]"
 2ホップリンク: https://www.notion.so/c7dd6f0250954e7685595af6e3e71eb3, https://www.notion.so/df60927f2d514d47bd1fbce582ba1834
+date: 2024-12-27T22:34
 ---
   
 

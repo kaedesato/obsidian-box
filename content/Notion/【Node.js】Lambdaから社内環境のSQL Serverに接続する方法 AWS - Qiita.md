@@ -1,3 +1,6 @@
+---
+date: 2024-12-27T22:34
+---
 [https://qiita.com/nacho0707/items/a4d4c8f7fab25c4876f0](https://qiita.com/nacho0707/items/a4d4c8f7fab25c4876f0)
 
   
