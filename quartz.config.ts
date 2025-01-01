@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "ja-JP",
     baseUrl: "obsidian.kaedesato.work",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
@@ -58,7 +58,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
