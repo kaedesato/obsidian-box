@@ -2,7 +2,6 @@
 date: 2025-01-03
 socialDescription: socialDescription!!!!!!!
 description: description!!!!!!!!
-socialImage: 946062i.jpg
 ---
 
 
