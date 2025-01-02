@@ -19,10 +19,10 @@ const config: QuartzConfig = {
     baseUrl: "obsidian.kaedesato.work",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "M PLUS Rounded 1c",
         body: "M PLUS Rounded 1c",
