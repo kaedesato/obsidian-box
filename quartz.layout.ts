@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.RecentNotes({ title: "最近の更新", limit: 20 ,})
+    Component.RecentNotes({ title: "最近の更新", limit: 5, linkToMore:"Box"},
   ],
 }
 
