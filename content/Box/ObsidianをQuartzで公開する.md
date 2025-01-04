@@ -36,7 +36,7 @@ https://quartz.jzhao.xyz/features/social-images
 - 11:pageTitle
 - 18:locale
 - 19:baseUrl
-- ２１：defaultDateType
+- 21:defaultDateType
 - 27:typography header
 - 28:typography body
 - CreatedModifiedDate \["frontmatter", "git", "filesystem"]
