@@ -16,14 +16,14 @@ jobs:
       
     - name: Configure R2 credentials
       run: |
-        aws configure set aws_access_key_id "${{ secrets.R2_ACCESS_KEY_ID }}"
-        aws configure set aws_secret_access_key "${{ secrets.R2_SECRET_ACCESS_KEY }}"
-        aws configure set default.region auto
-        aws configure set s3.endpoint_url https://90751f88f383bf10bae596fcb5dafde3.r2.cloudflarestorage.com/
+        aws configure set aws_access_key_id "${{ secrets.S3_KEY }}"
+        aws configure set aws_secret_access_key "${{ secrets.S3_SECRET }}"
+        aws configure set default.region kaede
+        aws configure set s3.endpoint_url "${{ secrets.S3_URL }}"
 
     # AWS S3 との同期 ... (2)
     - name: Fetch data from S3
-      run: aws s3 sync s3://obsidian ./content --delete --endpoint-url https://90751f88f383bf10bae596fcb5dafde3.r2.cloudflarestorage.com/
+      run: aws s3 sync s3://obsidian ./content --delete --endpoint-url "${{ secrets.S3_URL }}"
 
     # gitの差分がないときにコミットしないようにチェック ... (3)
     - name: check for changes
