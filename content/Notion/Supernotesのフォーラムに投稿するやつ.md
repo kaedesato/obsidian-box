@@ -72,7 +72,7 @@ Supernotesは、非常に使いやすく、自分がであった中でCosenseと
 
 Cosenseはデフォルトでこのような機能があります。  
 Notionはクローラーには弱いですが簡単に公開できます。  
-Obisidianも、有料のPublisherやセルフホストのQuartzがあります。  
+Obisidianも、有料のPublisherやセルフホストの[[Quartz]]があります。  
 Logseqには、セルフホストのHugoをつかったLogseq-Schrodingerがあります。  
 
   
