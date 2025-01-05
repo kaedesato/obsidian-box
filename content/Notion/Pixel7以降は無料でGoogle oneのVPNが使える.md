@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-02T00:34
+{}
 ---
 # Pixel7以降は無料でGoogle oneのVPNが使える
 

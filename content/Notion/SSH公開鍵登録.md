@@ -1,7 +1,5 @@
 ---
-Q: false
-pin: false
-最終更新日時: Invalid date
+{}
 ---
 # SSH公開鍵登録
 

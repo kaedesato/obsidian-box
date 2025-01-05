@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-02T00:34
+{}
 ---
 # Notion with MinecraftでNotionを練習しようの会
 

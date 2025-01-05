@@ -1,3 +1,6 @@
+---
+modified: 2025-01-05T18:37
+---
 
 同期
 OCIの無料インスタンス + minIO + Remotely save

@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-02T00:34
+{}
 ---
 Yamagata, where I live, is said to be a sacred place for ramen.
 

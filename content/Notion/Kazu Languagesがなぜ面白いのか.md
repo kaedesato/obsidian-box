@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-02T00:35
+{}
 ---
 # Kazu Languagesがなぜ面白いのか
 
