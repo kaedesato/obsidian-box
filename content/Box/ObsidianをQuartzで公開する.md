@@ -32,7 +32,7 @@ https://quartz.jzhao.xyz/features/social-images
 - [ ] 後で書く
 
 
-### 最低限の[[Quartz]]の設定
+### 最低限の[[Quartzの設定]]
 - 11:pageTitle
 - 18:locale
 - 19:baseUrl

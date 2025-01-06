@@ -5,23 +5,24 @@
 
 > [!important] DESとLameのいいとこどりを目指したキーキャップ
 
-  
+![](https://github.com/vvhg1/clp-keycaps/raw/main/assets/CLP_Keycaps.png)
 
+
+  
 ## 種類 分類表
 
 全19種類 多すぎ・・・
 
 表
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-||**Normal**|**Homing**|**Tilted 7°**|**Tilted 14°**|
-|**Saddle**|Saddle|Saddle Homing|Tilted 7°|Tilted 14°|
-|**Dished**|Dished|Dished Homing|Tilted 7° Dished|Tilted 14° Dished|
-|**R4 (Dished)**|||Tilted 7° Dished R4|Tilted 14° Dished R4|
-|**Left (Saddle)**|||Tilted 7° Slanted 10° Left|Tilted 14° Slanted 10° Left|
-|**Right (Saddle)**|||Tilted 7° Slanted 10° Right|Tilted 14° Slanted 10° Right|
-|**Lower Side**|Saddle Lower Side|Saddle Lower Side Homing||Tilted 14° Double Slanted|
+|                    | **Normal**        | **Homing**               | **Tilted 7°**               | **Tilted 14°**               |
+| ------------------ | ----------------- | ------------------------ | --------------------------- | ---------------------------- |
+| **Saddle**         | Saddle            | Saddle Homing            | Tilted 7°                   | Tilted 14°                   |
+| **Dished**         | Dished            | Dished Homing            | Tilted 7° Dished            | Tilted 14° Dished            |
+| **R4 (Dished)**    |                   |                          | Tilted 7° Dished R4         | Tilted 14° Dished R4         |
+| **Left (Saddle)**  |                   |                          | Tilted 7° Slanted 10° Left  | Tilted 14° Slanted 10° Left  |
+| **Right (Saddle)** |                   |                          | Tilted 7° Slanted 10° Right | Tilted 14° Slanted 10° Right |
+| **Lower Side**     | Saddle Lower Side | Saddle Lower Side Homing |                             | Tilted 14° Double Slanted    |
 
 親指用 2種類、Thumb, Tilted 7° 1.5U
 
@@ -38,29 +39,18 @@
     - **Tilted 7° Dished** – **Tilted 7°**と同様ですが、トッププロファイルが皿型です。
     - **Tilted 14° Dished** – **Tilted 14°**と同様ですが、トッププロファイルが皿型です。
 - R4用 (Dishedオンリー)
-    
     - **Tilted 7° Dished R4** – **Tilted 7° Dished**と同様ですが、最上段用の高いプロファイルです。
     - **Tilted 14° Dished R4** – **Tilted 14° Dished**と同様ですが、最上段用の高いプロファイルです。
     
-      
-    
-      
-    
 - Slanted （Saddleオンリー） （傾斜）
-    
     - **Tilted 7° Slanted 10°** – **Tilted 7°**と同様ですが、トッププロファイルが左右いずれかに10°傾斜したバリエーションです。
     - **Tilted 14° Slanted 10°** – **Tilted 14°**と同様ですが、トッププロファイルが左右いずれかに10°傾斜したバリエーションです。
     
-      
-    
 - Lower Side
-    
     - **Tilted 14° Double Slanted** – **Tilted 14°**と同様ですが、トッププロファイルが両側に傾斜しており、2つの傾斜したキーキャップの間に配置されることを意図しています。
     - **Saddle Lower Side** – **Saddle**と同様ですが、片側が低くなっており、**Double Slanted**キーキャップへの移行がスムーズになります。
     - **Saddle Lower Side Homing** – **Saddle Homing**と同様ですが、片側が低くなっており、**Double Slanted**キーキャップへの移行がスムーズになります。
-    
-      
-    
+
 - 親指用
     - **Thumb** – **Dished**と同様ですが、前面が低くなっています。
     - **Tilted 7° 1.5u** – **Tilted 7°**と同様ですが、サイズが1.5uです。
@@ -71,14 +61,6 @@
 
 簡易系
 
-||小指|小指|薬指|中指|人差し指|人差し指|
-|---|---|---|---|---|---|---|
-|R3|Tilted 14|Tilted 14|Tilted 14|Tilted 14|Tilted 14|Tilted 14|
-|R2|Normal|Normal|Normal|Normal|Normal|Normal|
-|R1|Tilted 7|Tilted 7|Tilted 7|Tilted 7|Tilted 7|Tilted 7|
-
-Normal. Tilted14, Tilted7 が各6こずつ
-
   
 
 基本エルゴ形
@@ -88,6 +70,7 @@ Normal. Tilted14, Tilted7 が各6こずつ
 |R3|Tilted14 Right|Tilted7 Right|Tilted7|Tilted7|Tilted7 Left|Tilted14 Left|
 |R2|Double Slanted|Lower Side|Normal|Normal|Lower Side|Double Slanted|
 |R1|Tilted14 Left|Tilted7 Left|Tilted7|Tilted7|Tilted7 Right|Tilted14 Right|
+
 
   
 
@@ -103,14 +86,11 @@ Normal. Tilted14, Tilted7 が各6こずつ
 - Ergo Kit
     
       
-    
 - R4 Kit
     
     R4-7、R4-14 12個ずつ
     
-      
-    
-      
+
     
 
   
@@ -124,6 +104,18 @@ Normal. Tilted14, Tilted7 が各6こずつ
   
 
 ### assembliesの内容
+
+全9種類おおすぎ。。。。
+
+- Assembly4EachR4 v2
+	- 14度と7度のR4を4つずつ入れているやつ。
+- Assembly4PairDoubleslant v5
+	- Lower Sideのセット
+	- ホーミングが2個、あいだ用が4個、連接が4つ。
+- 
+
+
+
 
   
 
