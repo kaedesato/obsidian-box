@@ -107,24 +107,33 @@
 
 全9種類おおすぎ。。。。
 
-1. Assembly10Tilt14
-2. Assembly10Tilt7
-3. Assembly4EachR4
-4. Assembly10of14Slanted
-	1. 14度と7度のR4を4つずつ入れているやつ。
-4. Assembly4PairDoubleslant
-	1. Lower Sideのセット
-	1. ホーミングが2個、あいだ用が4個、連接が4つ。
-5. AssemblyThumbOther
-	1. なぞ
-6. Assembly10Saddle
-	1. そのまんま、1個ホーミングが入っている
-	1. Tilted 14°Slanted 10°の左右が5個ずつ入っている
-8. Assembly10of7Slanted
-	1. 同様です。
-9. AssemblyThumbHoming
-	1. 謎
-	1. 1.5Uが2個と、ホーミングが2個づつ、Dishedが2個？
+- Assembly10Saddle
+	- そのまんま、1個ホーミングが入っている
+- Assembly10Tilt14
+	- サドルです
+- Assembly10Tilt7
+	- サドルです
+- Assembly10of14Slanted
+	- Tilted 14°Slanted 10°の左右が5個ずつ入っている
+- Assembly10of7Slanted
+	- 同様です。
+- Assembly4PairDoubleslant
+- Assembly4EachR4
+	- 14度と7度のR4を4つずつ入れているやつ。
+	- R4はDishedしか無いので...
+	- Lower Sideのセット
+	- ホーミングが2個、あいだ用が4個、連接が4つ。
+- AssemblyThumbOther
+	- なぞ
+- AssemblyThumbHoming
+	- 謎
+	- 1.5Uが2個と、ホーミングが2個づつ、Dishedが2個？
+
+### Ergonautに必要なキット
+
+- 
+
+
 
 
 ### 印刷の素材
