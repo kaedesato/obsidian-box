@@ -31,7 +31,7 @@ Workmanとの考え方の類似点
 相違点
 
 - ZXCVをより厳密にキープ  
-- 22文字変更（Workmanは21字、Colemakは17字）。  
+- 22文字変更（Workmanは21字、[[Colemak]]は17字）。  
 - ZXCV以外では4文字のみ一致  
 
 SFUメモ
@@ -46,9 +46,8 @@ https://en.wikipedia.org/wiki/Letter_frequency\#cite_note-micka-1
 
 https://w.atwiki.jp/raycy/pages/261.html
 
-code:json
 
-```Plain
+``` json
  {
      "label": "kaede",
      "author": "Patrick Gillespie",
