@@ -1,7 +1,11 @@
 ---
 title: Kaede's Digital Garden
-modified: 2025-01-31T13:37:00
+modified: 2025-01-10T13:48
 ---
+
+> [!NOTE] 最新のメモ一覧はこちら
+> https://obsidian.kaedesato.work/Box
+
 
 みなさんこんにちは、佐藤かえでといいます。
 VTuberをしています。
