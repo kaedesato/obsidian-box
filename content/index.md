@@ -1,8 +1,7 @@
 ---
 title: Kaede's Digital Garden
-date: 2025-01-30T20:15:00
+modified: 2025-01-31T13:37:00
 ---
-## Kaede's Digital Garden
 
 みなさんこんにちは、佐藤かえでといいます。
 VTuberをしています。
