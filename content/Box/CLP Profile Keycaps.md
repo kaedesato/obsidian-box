@@ -1,5 +1,6 @@
 ---
-modified: 2025-01-07T00:31
+modified: 2025-01-12T06:26
+created: 2025-01-10T13:40
 ---
 [https://github.com/vvhg1/clp-keycaps](https://github.com/vvhg1/clp-keycaps)
 
@@ -8,7 +9,9 @@ modified: 2025-01-07T00:31
 
 ![](https://github.com/vvhg1/clp-keycaps/raw/main/assets/CLP_Keycaps.png)
 
-
+特徴
+- KLPより高さが低い
+- 
   
 ## 種類 分類表
 
