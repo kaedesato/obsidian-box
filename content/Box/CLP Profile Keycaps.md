@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-12T06:26
+modified: 2025-01-14T00:56
 created: 2025-01-10T13:40
 date: 2025-01-12T06:29
 ---
@@ -52,10 +52,10 @@ date: 2025-01-12T06:29
     - **Tilted 14° Slanted 10°** – **Tilted 14°**と同様ですが、トッププロファイルが左右いずれかに10°傾斜したバリエーションです。
     
 - Lower Side
-    - **Tilted 14° Double Slanted** – **Tilted 14°**と同様ですが、トッププロファイルが両側に傾斜しており、2つの傾斜したキーキャップの間に配置されることを意図しています。
+    - **Tilted 14° Double Slanted** – **Tilted 14°**と同様ですが、トッププロファイルが両側に傾斜しており、2つの傾斜したキーキャップの間に配置されることを意図しています。（14°となっていますが、7にもフィットします。）
     - **Saddle Lower Side** – **Saddle**と同様ですが、片側が低くなっており、**Double Slanted**キーキャップへの移行がスムーズになります。
-    - **Saddle Lower Side Homing** – **Saddle Homing**と同様ですが、片側が低くなっており、**Double Slanted**キーキャップへの移行がスムーズになります。
-
+    - **Saddle Lower Side Homing** – **Saddle Homing**と同様ですが、片側が低くなっており、**Double Slanted**キーキャップへの移行がスムーズになります。（低い方をDouble Slantedに向ける。）
+    
 - 親指用
     - **Thumb** – **Dished**と同様ですが、前面が低くなっています。
     - **Tilted 7° 1.5u** – **Tilted 7°**と同様ですが、サイズが1.5uです。
