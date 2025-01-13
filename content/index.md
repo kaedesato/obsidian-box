@@ -1,7 +1,8 @@
 ---
 title: Kaede's Digital Garden
-modified: 2025-01-10T13:48
+modified: 2025-01-12T07:49
 date: 2025-01-10T13:48
+created: 2025-01-12T07:49
 ---
 
 > [!NOTE] 最新のメモ一覧はこちら
