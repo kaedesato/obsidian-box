@@ -4,6 +4,7 @@ modified: 2025-01-05T18:37
 
 同期
 OCIの無料インスタンス + minIO + Remotely save
+[[OCIの無料インスタンス + minIO + Cloudflare Tunnel + Remotely saveを使って無料でObsidianを同期する]]
 
 公開
 GitHub Actions + Quartz + Cloudflare Pages
