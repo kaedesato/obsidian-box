@@ -22,7 +22,7 @@ const config: QuartzConfig = {
     generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: false,
+      cdnCaching: true,
       typography: {
         header: "M PLUS Rounded 1c",
         body: "M PLUS Rounded 1c",
