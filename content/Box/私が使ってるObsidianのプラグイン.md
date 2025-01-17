@@ -12,6 +12,9 @@ created: 2025-01-13T19:42
 ### Link Embed
 
 下のようなやつを作ってくれる。
+これ、このプラグインを入れてないと見えないらしい。
+だめじゃん。。。
+
 ```embed
 title: "GitHub - Seraphli/obsidian-link-embed: This plugin allow you to convert URLs in your notes into embeded previews."
 image: "https://opengraph.githubassets.com/142390d294534a244736774e109eb5c43085ab597b07cefee3d7d2d3a08731c8/Seraphli/obsidian-link-embed"
