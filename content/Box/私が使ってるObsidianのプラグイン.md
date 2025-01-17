@@ -6,13 +6,23 @@ modified: 2025-01-13T19:42
 
 ### Remotely Save
 
+同期をしてくれるやつ。
+詳しくは別なページで解説します。するつもり…
+
+
+---
 ### Update Time on Edit
+
+ページ更新時に、自動的にプロパティの日時を更新してくれるやつ。
+プロパティの名前とかを変更できるので、[[Quartz]]に対応しやすい。
+既存のページも一括入力してくれるボタンもある。
+
 
 ### Link Embed
 
 下のようなやつを作ってくれる。
 これ、このプラグインを入れてないと見えないらしい。
-だめじゃん。。。（Quartzで見えないので…）
+だめじゃん。。。（[[Quartz]]で見えないので…）
 
 ```embed
 title: "GitHub - Seraphli/obsidian-link-embed: This plugin allow you to convert URLs in your notes into embeded previews."
@@ -26,5 +36,7 @@ url: "https://github.com/Seraphli/obsidian-link-embed"
 
 ### Auto Link Title
 リンクを貼り付けた際に自動的にリンク先のタイトルを取得して置き換えてくれるやつ。
-これなら、リンクの
+純粋なMarkdownなので、これなら[[Quartz]]でも見れる。
+
 [GitHub - zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)
+
