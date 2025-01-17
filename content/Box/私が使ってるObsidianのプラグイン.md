@@ -1,6 +1,5 @@
 ---
 modified: 2025-01-13T19:42
-created: 2025-01-13T19:42
 ---
 
 
@@ -13,7 +12,7 @@ created: 2025-01-13T19:42
 
 下のようなやつを作ってくれる。
 これ、このプラグインを入れてないと見えないらしい。
-だめじゃん。。。
+だめじゃん。。。（Quartzで見えないので…）
 
 ```embed
 title: "GitHub - Seraphli/obsidian-link-embed: This plugin allow you to convert URLs in your notes into embeded previews."
@@ -22,3 +21,10 @@ description: "This plugin allow you to convert URLs in your notes into embeded p
 url: "https://github.com/Seraphli/obsidian-link-embed"
 ```
 
+これのQuartzのプラグインを開発する可能性…？
+
+
+### Auto Link Title
+リンクを貼り付けた際に自動的にリンク先のタイトルを取得して置き換えてくれるやつ。
+これなら、リンクの
+[GitHub - zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)

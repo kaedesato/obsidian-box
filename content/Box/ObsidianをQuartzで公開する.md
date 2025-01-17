@@ -40,7 +40,6 @@ https://quartz.jzhao.xyz/features/social-images
 - 21:defaultDateType
 - 27:typography header
 - 28:typography body
-- CreatedModifiedDate \["frontmatter", "git", "filesystem"]
 
 https://quartz.jzhao.xyz/plugins/CreatedModifiedDate
 
@@ -50,4 +49,8 @@ https://pouhon.net/obsidian-plugins-update-time-on-edit/8040/
 
 
 ## 画像の容量を何とかする
-### imgurを使って画像をアップロードする
+Cloudflareは25MB以上のファイルは使えないので、それ以上のファイルをアップロードしないようにする。
+まずRemotely SaveでSkip Large fileを20MBにして、20MB以上のものはSync,アップロードしないようにする。
+
+### 自動的にWebPにする。
+
