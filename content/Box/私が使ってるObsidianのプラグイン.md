@@ -1,5 +1,7 @@
 ---
 modified: 2025-01-13T19:42
+tags:
+  - Obsidian
 ---
 
 
@@ -32,6 +34,7 @@ url: "https://github.com/Seraphli/obsidian-link-embed"
 ```
 
 これのQuartzのプラグインを開発する可能性…？
+[[Obsidianのプラグイン・サービスを作りたい話]]
 
 
 ### Auto Link Title
