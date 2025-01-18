@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "M PLUS Rounded 1c",
-        body: "M PLUS Rounded 1c",
+        header: "Zen Maru Gothic",
+        body: "Zen Maru Gothic",
         code: "BIZ UDGothic",
       },
       colors: {
