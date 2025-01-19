@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-19T18:11
+modified: 2025-01-19T18:17
 ---
 
 
@@ -41,6 +41,8 @@ SRSはすべてを加速することができる。
 
 
 
+
+### すべてのイマージョンの原点と言われてるやつ。
 https://www.youtube.com/watch?v=d0yGdNEWdn0
 
 西洋人が中国語を半年でマスターした。
@@ -82,8 +84,20 @@ https://www.youtube.com/watch?v=d0yGdNEWdn0
 リズムとパターン
 
 ２つ目 Focus on getting the meaning FIRST
+[[Comprehensible Input]]につながる。
 
-> なんで英語でポケモンをやるといいのか、なんで
+> なんで英語でポケモンをやるといいのか、なんで英語のMinecraftの実況を見るといいのか
+
+３つ目 Start Mixing
+完璧でなくても伝わればいい。
+
+４つ目 Focus on the Core
+英語は1,000の単語で85%の会話ができ、
+3,000あれば98%をカバーできる。
+「3,000語知っていれば英語は話せるということです」
+
+
+
 
 
 
