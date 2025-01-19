@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Kaisei Decol",
-        body: "Kaisei Decol",
+        header: "Zen Maru Gothic",
+        body: "Zen Maru Gothic",
         code: "BIZ UDGothic",
       },
       colors: {
