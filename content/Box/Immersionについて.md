@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-19T19:58
+modified: 2025-01-19T20:57
 ---
 
 
@@ -120,7 +120,12 @@ Quizknockのトムさんもやってた。
 
 
 
-6つ目
+6つ目 Copy the face
+
+
+7つ目 "Direct Connect" to Mental Image
+
+
 
 
 
