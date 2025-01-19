@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-19T18:17
+modified: 2025-01-19T19:58
 ---
 
 
@@ -96,9 +96,31 @@ https://www.youtube.com/watch?v=d0yGdNEWdn0
 3,000あれば98%をカバーできる。
 「3,000語知っていれば英語は話せるということです」
 
+まずは、ツールボックスを作れ。
+Quizknockのトムさんもやってた。
+
+- you
+- that
+- me
+- give
+- hot
+
+
+5つ目 Get a Language Parent
+簡単な言葉で話してくれるひとを探す。
+- Works to understand what you are saying  
+  - あなたが何を言おうとしているのかを理解するよう努める  
+- Does not correct mistakes  
+  - 間違いを訂正しない  
+- Confirms understanding by using correct language  
+  - 正しい言葉を使って理解を確認する  
+- Use words the learner knows  
+  - 学習者が知っている単語を使う  
 
 
 
+
+6つ目
 
 
 
