@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-13T19:42
+modified: 2025-01-21T14:21
 tags:
   - Obsidian
 date: 2025-01-17T18:52
@@ -43,4 +43,7 @@ url: "https://github.com/Seraphli/obsidian-link-embed"
 純粋なMarkdownなので、これなら[[Quartz]]でも見れる。
 
 [GitHub - zolrath/obsidian-auto-link-title: Automatically fetch the titles of pasted links](https://github.com/zolrath/obsidian-auto-link-title)
+
+### Multi Properties
+
 
