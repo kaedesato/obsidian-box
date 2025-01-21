@@ -1,5 +1,5 @@
 ---
-{}
+modified: 2025-01-05T18:37
 ---
 [https://qiita.com/nacho0707/items/a4d4c8f7fab25c4876f0](https://qiita.com/nacho0707/items/a4d4c8f7fab25c4876f0)
 

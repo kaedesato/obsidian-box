@@ -1,5 +1,5 @@
 ---
-{}
+modified: 2025-01-05T18:37
 ---
 > [!info] How to install SvelteKit with daisyUI? — Tailwind CSS Components ( version 4 update is here )  
 > SvelteKit is a meta framework for building web applications.  
