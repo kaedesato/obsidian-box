@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"148f2dc2857d7939","x":-720,"y":-442,"width":400,"height":360,"type":"file","file":"Daily/2025-01-23.md"},
+		{"id":"ef471481ff4a1103","x":-215,"y":-288,"width":250,"height":52,"type":"text","text":"何もしたくない…"},
+		{"id":"ed0019be8908c544","x":-215,"y":-142,"width":250,"height":60,"type":"text","text":"何もすることがないし。\n何もしなくてもいい。"},
+		{"id":"263ce7d254a8b505","x":140,"y":-288,"width":250,"height":52,"type":"text","text":"Redditでも見るか…"}
+	],
+	"edges":[
+		{"id":"91ba87850de92fc4","fromNode":"148f2dc2857d7939","fromSide":"right","toNode":"ef471481ff4a1103","toSide":"left"},
+		{"id":"d5f323e1d97c3fae","fromNode":"ef471481ff4a1103","fromSide":"bottom","toNode":"ed0019be8908c544","toSide":"top"},
+		{"id":"7ce2672608e2fc38","fromNode":"ef471481ff4a1103","fromSide":"right","toNode":"263ce7d254a8b505","toSide":"left"}
+	]
+}
