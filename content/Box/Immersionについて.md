@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-19T20:57
+modified: 2025-01-24T10:11
 ---
 
 
@@ -130,3 +130,8 @@ Quizknockのトムさんもやってた。
 
 
 
+ペンギン
+immersion kit dictionary
+anki connect
+
+ankiは85%にするといいらしい
