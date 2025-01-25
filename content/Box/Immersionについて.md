@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-24T10:11
+modified: 2025-01-25T15:22
 ---
 
 
@@ -7,7 +7,6 @@ modified: 2025-01-24T10:11
 ## 参考資料
 
 https://www.youtube.com/watch?v=XFkU4oz2Q9k
-
 
 ３つのパートがある
 - 学習
