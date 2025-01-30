@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-30T22:51
+modified: 2025-01-30T23:42
 ---
 
 序章
@@ -51,6 +51,12 @@ SVOC
 make型、OをCにする。
 call型、OをCと呼ぶ。
 think型、OをCと考える。
+
+
+状態動詞と動作動詞
+
+Will you be going to 
+
 
 
 
