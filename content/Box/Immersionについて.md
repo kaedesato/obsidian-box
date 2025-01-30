@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-25T21:41
+modified: 2025-01-30T16:01
 ---
 
 単語と単語の対応から、
@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=XFkU4oz2Q9k
 
 とにかくリスニングしてれば話せるようになるわけではない
 
-Language Reactor
+[[Language Reactor]]
 
 クロストーク
 
