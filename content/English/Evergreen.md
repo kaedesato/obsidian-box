@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-30T23:42
+modified: 2025-02-02T20:52
 ---
 
 序章
@@ -58,5 +58,8 @@ think型、OをCと考える。
 Will you be going to 
 
 
+最近を表す単語
+完了形で使えるのと使えないのがある。
+Nowadays
 
 
