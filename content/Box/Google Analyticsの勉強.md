@@ -1,5 +1,5 @@
 ---
-modified: 2025-02-07T11:34
+modified: 2025-02-07T12:01
 ---
 Google analytics の勉強
 知らん単語が無限に出てくる。
@@ -67,6 +67,7 @@ Google analytics の勉強
 - クロスドメイン測定
 - 集客レポート
 - エンゲージメントレポート
+- Measurement Protocol
 - 
 
 デモアカウントがあるらしい。
