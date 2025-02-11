@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-14T00:56
+modified: 2025-02-11T17:56
 created: 2025-01-10T13:40
 date: 2025-01-12T06:29
 ---
@@ -122,11 +122,11 @@ date: 2025-01-12T06:29
 - Assembly10of7Slanted
 	- 同様です。
 - Assembly4PairDoubleslant
+	- Lower Sideのセット
+	- ホーミングが2個、あいだ用が4個、連接が4つ。
 - Assembly4EachR4
 	- 14度と7度のR4を4つずつ入れているやつ。
 	- R4はDishedしか無いので...
-	- Lower Sideのセット
-	- ホーミングが2個、あいだ用が4個、連接が4つ。
 - AssemblyThumbOther
 	- なぞ
 - AssemblyThumbHoming
