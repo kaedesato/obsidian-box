@@ -1,5 +1,5 @@
 ---
-modified: 2025-02-02T20:52
+modified: 2025-02-25T07:31
 ---
 
 序章
@@ -61,5 +61,17 @@ Will you be going to
 最近を表す単語
 完了形で使えるのと使えないのがある。
 Nowadays
+
+
+推測を表すシリーズ
+may might will would の違い全くわからない。
+
+have got to
+〇〇に違いない
+
+should, ought to
+ほぼ同じ意味
+
+
 
 
