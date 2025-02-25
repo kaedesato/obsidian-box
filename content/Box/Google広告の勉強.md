@@ -1,5 +1,5 @@
 ---
-modified: 2025-02-20T14:20
+modified: 2025-02-25T18:06
 ---
 
 今、受けれるのは9種類ある。
@@ -131,4 +131,19 @@ Google広告ではコンバージョンのカウントは、クリックが行�
 
 コンバージョンの重複を防ぐためオーダーIDなどのトランザクションIDを付ける。
 
+
+---
+
+
+- 小売向けP-Maxキャンペーン
+- 通常のショッピングキャンペーン
+- どちらのパターンもマーチャントセンターを使う
+
+- 商品ショッピング広告
+- ローカル在庫広告
+- 無料のリスティング
+- P-MAXも通常もCPC（クリック単価）
+- EAAとスイスではCSSが必要？
+	- [About advertising with Comparison Shopping Services - Google Merchant Center Help](https://support.google.com/merchants/answer/12653197?visit_id=638760711414420385-672882124&rd=1)
+- 
 
