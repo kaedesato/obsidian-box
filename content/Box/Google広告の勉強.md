@@ -1,5 +1,5 @@
 ---
-modified: 2025-02-25T18:06
+modified: 2025-02-26T18:12
 ---
 
 今、受けれるのは9種類ある。
@@ -146,4 +146,12 @@ Google広告ではコンバージョンのカウントは、クリックが行�
 - EAAとスイスではCSSが必要？
 	- [About advertising with Comparison Shopping Services - Google Merchant Center Help](https://support.google.com/merchants/answer/12653197?visit_id=638760711414420385-672882124&rd=1)
 - 
+
+
+入札戦略
+- コンバージョン値の最大化
+- tROAS
+- 拡張クリック単価（CPC）
+- クリック数の最大化
+- 上限クリック単価
 
