@@ -1,15 +1,19 @@
 ---
-modified: 2025-02-26T18:28
+modified: 2025-02-27T13:51
 ---
 
 今、受けれるのは9種類ある。
-- [ ] 検索広告認定資格
+- [x] 検索広告認定資格
+- [x] 広告測定認定資格
+- [ ] ショッピング広告認定資格
+- [ ] ディスプレイ広告認定資格
 
 
 
 
 ---
 
+### 検索広告
 - コンバージョン
 	- コンバージョン値とコンバージョン数
 - CPA
@@ -43,6 +47,8 @@ modified: 2025-02-26T18:28
 - 表示URL？
 
 ---
+
+### 広告測定
 
 - 財務目標
 	- 戦略的な目標
@@ -133,6 +139,17 @@ Google広告ではコンバージョンのカウントは、クリックが行�
 
 
 ---
+### ショッピング広告
+
+
+リファレンス
+- [Explore the 2024 retail guide - Think with Google](https://www.thinkwithgoogle.com/consumer-insights/consumer-journey/retail-guide-and-insights/)
+- [Make your products stand out and maximize your reach across Google’s channels - Google Ads Help](https://support.google.com/google-ads/answer/6167176)
+- [About advertising with Comparison Shopping Services - Google Merchant Center Help](https://support.google.com/merchants/answer/12653197?visit_id=638762279750564871-1996152853&rd=1)
+- [Local inventory ads and free local listings overview - Google Merchant Center Help](https://support.google.com/merchants/answer/14615117?visit_id=638762279750564871-1996152853&rd=1)
+- [What makes up a Shopping ad - Google Ads Help](https://support.google.com/google-ads/answer/6275294)
+- 
+
 
 
 - 小売向けP-Maxキャンペーン
@@ -144,8 +161,9 @@ Google広告ではコンバージョンのカウントは、クリックが行�
 - 無料のリスティング
 - P-MAXも通常もCPC（クリック単価）
 - EAAとスイスではCSSが必要？
-	- [About advertising with Comparison Shopping Services - Google Merchant Center Help](https://support.google.com/merchants/answer/12653197?visit_id=638760711414420385-672882124&rd=1)
-- 
+
+> [!question] Google の通常の検索結果ページにショッピング広告を掲載するためには必ず CSS を使う必要があるのですか？
+>はい、ショッピング広告を掲載できるのは CSS だけです。Google ショッピングを使うことも、任意の CSS を選んで使うこともできます。複数の CSS から同時に入札に参加することもできます。 
 
 
 入札戦略
