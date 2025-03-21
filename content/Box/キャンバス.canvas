@@ -25,7 +25,7 @@
 		{"id":"b5f9eeaac54fb718","type":"text","text":"認知科学的なこと？","x":-216,"y":420,"width":250,"height":60},
 		{"id":"3a6e7e3b70ff266f","type":"text","text":"Can","x":-464,"y":700,"width":125,"height":60},
 		{"id":"8e49e3bb0e90a5f3","type":"text","text":"研究はあんましたくないかな","x":107,"y":420,"width":250,"height":60},
-		{"id":"fc0995262fcfc1a6","x":162,"y":121,"width":250,"height":60,"type":"text","text":"いったん好き＝やりたいことではあるか"}
+		{"id":"fc0995262fcfc1a6","type":"text","text":"いったん好き＝やりたいことではあるか","x":162,"y":121,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"91ba87850de92fc4","fromNode":"148f2dc2857d7939","fromSide":"right","toNode":"ef471481ff4a1103","toSide":"left"},
@@ -35,7 +35,7 @@
 		{"id":"0566efcd6efbbe3a","fromNode":"8b8dd76ff103996d","fromSide":"right","toNode":"f3dc4c1eb729b4fd","toSide":"left"},
 		{"id":"7a5360d340944881","fromNode":"8b8dd76ff103996d","fromSide":"right","toNode":"2c591909e7984e2a","toSide":"left"},
 		{"id":"23a5ba0b7b5c9602","fromNode":"f3dc4c1eb729b4fd","fromSide":"right","toNode":"9f5c6cd58cc9f90e","toSide":"left"},
-		{"id":"11b5990a82c05b7e","fromNode":"9ff11ec494c0ac82","fromSide":"bottom","toNode":"2c591909e7984e2a","toSide":"top"},
+		{"id":"11b5990a82c05b7e","fromNode":"9ff11ec494c0ac82","fromSide":"bottom","toNode":"2c591909e7984e2a","toSide":"top","fromEnd":"arrow"},
 		{"id":"2e23d0e497626676","fromNode":"3a6e7e3b70ff266f","fromSide":"right","toNode":"3928ae61714a99ba","toSide":"left"},
 		{"id":"cb0b0d5e97cf25c2","fromNode":"3928ae61714a99ba","fromSide":"right","toNode":"0b2ce6ab4c3fa25b","toSide":"left"},
 		{"id":"8caa2f5ea2ea125b","fromNode":"3a6e7e3b70ff266f","fromSide":"right","toNode":"7882c45875f75c5a","toSide":"left"},
