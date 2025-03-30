@@ -1,6 +1,6 @@
 ---
 title: Kaede's Digital Garden
-modified: 2025-01-12T07:49
+modified: 2025-03-30T15:52
 date: 2025-01-10T13:48
 created: 2025-01-12T07:49
 ---
@@ -28,3 +28,4 @@ YouTubeなどの、各種リンクは [こちら](https://kaedesato.work/)です
 
 ## このサイトの作り方みたいなもの
 
+[[Quartzを始める]]
