@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-09T12:28
+modified: 2025-04-09T12:37
 ---
 
 AWS, Azure, Alibaba, GCP以外
@@ -11,3 +11,15 @@ PostgreSQL系
 - Neon
 - Xata
 - Nile
+
+SQLite系
+- Cloudflare D1
+- Turso
+
+MySQL系
+- PlanetScale
+- TiDB
+- SingleStore
+
+その他
+- Gel
