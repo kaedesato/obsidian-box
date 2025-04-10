@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-10T18:14
+modified: 2025-04-10T18:16
 ---
 
 [[セルフホスト系アプリケーション]]
@@ -8,6 +8,10 @@ ubuntu環境を想定
 SSHできたところからスタート
 
 ### 全貌
+
+- docker-compose.ymlの1ファイルで管理
+- Cloudflare TunnelでHTTPSとポート回りを解決
+- cronでバックアップ
 
 
 ### アップデート
