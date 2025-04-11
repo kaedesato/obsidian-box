@@ -1,11 +1,13 @@
 ---
-modified: 2025-04-11T14:04
+modified: 2025-04-11T15:18
 ---
 
 [[セルフホスト系アプリケーション]]
 
 ubuntu環境を想定
 SSHできたところからスタート
+
+マシンスペックはメモリ1GBくらいあったほうがいい。
 
 ### 全貌
 
@@ -71,15 +73,21 @@ Docker イメージのダウンロード
 sudo docker pull vaultwarden/server:latest
 ```
 
-  
 
 ```Bash
 sudo docker run -d --name vaultwarden -v /vw-data/:/data/ --restart unless-stopped -p 3000:80 vaultwarden/server:latest
 ```
 
-でポート番号を変えれる
+でポート番号を変えて起動できる
 
-  
+```shell
+curl http://localhost:3000/
+```
+
+curlで起動できているか確認。
+
+
+
 
 passkeyでログインできるようにする
 
@@ -95,6 +103,7 @@ docker run -d --name vaultwarden \
 
   
 
+環境変数は`KEY: value` 辞書形式じゃないとだめ。
   
 
   
@@ -109,4 +118,25 @@ Adminにログインする方法設定してないけど、大丈夫かな・・
 
   
 
-Cloudflare tunnelの設定
+### Cloudflare tunnelの設定
+
+Cloudflareのアカウント登録と、ドメイン登録を済ませておく。
+
+Zero Trust → Networks → Tunnels
+でCreate a tunnelを押す。
+![[Pasted image 20250411150948.png]]
+
+![[Pasted image 20250411151005.png]]
+Cloudflaredを選択
+
+
+名前を入力して、
+この画面でUbuntuであれば
+Debianと適切なアーキテクチャ（通常であれば64bit）を選んで、
+下のコードをコピペして実行。
+![[Pasted image 20250411151345.png]]
+
+
+
+
+### VaultWardenのアップデート
