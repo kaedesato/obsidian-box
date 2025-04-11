@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-10T18:16
+modified: 2025-04-11T14:04
 ---
 
 [[セルフホスト系アプリケーション]]
@@ -15,12 +15,10 @@ SSHできたところからスタート
 
 
 ### アップデート
-
-```Plain
+```Shell
 sudo apt update && sudo apt upgrade -y
 ```
 
-  
 
 ### Dockerのインストール
 
@@ -55,16 +53,17 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 動作チェック
 
 ```Shell
-sudo docker run hello-world
+sudo docker run --rm hello-world
 ```
 
+`--rm`は実行が終わったらそのイメージを削除するというやつ。動作チェックするだけなので消してOK。
   
 
   
 
   
 
-### Vault WardenをDockerで起動
+### Vault WardenをDocker-composeで起動
 
 Docker イメージのダウンロード
 
