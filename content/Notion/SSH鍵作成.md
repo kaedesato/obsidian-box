@@ -3,10 +3,9 @@ modified: 2025-01-05T18:37
 ---
 # SSH鍵作成
 
-code:ssh-keygen.sh
 
-```Plain
-    ssh-keygen -t ed25519
+```shell
+ssh-keygen -t ed25519
 ```
 
 でOK
@@ -17,9 +16,7 @@ code:ssh-keygen.sh
 
 パスワードをつけるときは
 
-code:ssh-keygen-password.sh
-
-```Plain
+```shell
  ssh-keygen -t ed25519 -a 128
 ```
 
