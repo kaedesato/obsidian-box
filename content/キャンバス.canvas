@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"6e79048130d9602e","x":-741,"y":1270,"width":250,"height":60,"type":"text","text":""},
 		{"id":"148f2dc2857d7939","type":"file","file":"Daily/2025-01-23.md","x":-720,"y":-442,"width":400,"height":360},
 		{"id":"ef471481ff4a1103","type":"text","text":"何もしたくない…","x":-215,"y":-288,"width":250,"height":52},
 		{"id":"ed0019be8908c544","type":"text","text":"何もすることがないし。\n何もしなくてもいい。","x":-215,"y":-142,"width":250,"height":60},
@@ -25,7 +26,7 @@
 		{"id":"b5f9eeaac54fb718","type":"text","text":"認知科学的なこと？","x":-216,"y":420,"width":250,"height":60},
 		{"id":"3a6e7e3b70ff266f","type":"text","text":"Can","x":-464,"y":700,"width":125,"height":60},
 		{"id":"8e49e3bb0e90a5f3","type":"text","text":"研究はあんましたくないかな","x":107,"y":420,"width":250,"height":60},
-		{"id":"fc0995262fcfc1a6","x":162,"y":121,"width":250,"height":60,"type":"text","text":"いったん好き＝やりたいことではあるか"}
+		{"id":"fc0995262fcfc1a6","type":"text","text":"いったん好き＝やりたいことではあるか","x":162,"y":121,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"91ba87850de92fc4","fromNode":"148f2dc2857d7939","fromSide":"right","toNode":"ef471481ff4a1103","toSide":"left"},
