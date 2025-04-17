@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-11T15:18
+modified: 2025-04-17T22:39
 ---
 
 [[セルフホスト系アプリケーション]]
@@ -124,9 +124,9 @@ Cloudflareのアカウント登録と、ドメイン登録を済ませておく�
 
 Zero Trust → Networks → Tunnels
 でCreate a tunnelを押す。
-![[Pasted image 20250411150948.png]]
+![[Pasted image 20250411150948 2.png]]
 
-![[Pasted image 20250411151005.png]]
+![[Pasted image 20250411151005 2.png]]
 Cloudflaredを選択
 
 
@@ -134,7 +134,7 @@ Cloudflaredを選択
 この画面でUbuntuであれば
 Debianと適切なアーキテクチャ（通常であれば64bit）を選んで、
 下のコードをコピペして実行。
-![[Pasted image 20250411151345.png]]
+![[Pasted image 20250411151345 2.png]]
 
 
 
