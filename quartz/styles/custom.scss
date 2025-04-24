@@ -1,3 +1,68 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// ローカルフォントの定義
+@font-face {
+  font-family: 'LINE Seed JP';
+  src: url('/fonts/LINESeedJP_OTF_Rg.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LINE Seed JP';
+  src: url('/fonts/LINESeedJP_OTF_Bd.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LINE Seed JP';
+  src: url('/fonts/LINESeedJP_OTF_Eb.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LINE Seed JP';
+  src: url('/fonts/LINESeedJP_OTF_Th.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Juisee';
+  src: url('/fonts/Juisee-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Juisee';
+  src: url('/fonts/Juisee-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Juisee';
+  src: url('/fonts/Juisee-RegularItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Juisee';
+  src: url('/fonts/Juisee-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
