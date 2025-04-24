@@ -17,14 +17,14 @@ const config: QuartzConfig = {
     baseUrl: "obsidian.kaedesato.work",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Zen Maru Gothic",
-        body: "Zen Maru Gothic",
-        code: "BIZ UDGothic",
-      },
+    theme: {
+      fontOrigin: "local",
+      cdnCaching: true,
+      typography: {
+        header: "LINE Seed JP",
+        body: "LINE Seed JP",
+        code: "Juisee",
+      },
       colors: {
         lightMode: {
           light: "#f4fbfa", 
