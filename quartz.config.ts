@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "LINE Seed JP",
         body: "LINE Seed JP",
