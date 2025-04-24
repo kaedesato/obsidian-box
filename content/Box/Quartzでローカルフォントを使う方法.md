@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-24T14:04
+modified: 2025-04-24T14:18
 ---
 
 
@@ -27,7 +27,7 @@ custom.scss
 // ローカルフォントの定義
 @font-face {
   font-family: 'LINE Seed JP';
-  src: url('/fonts/LINESeedJP_OTF_Rg.otf') format('opentype');
+  src: url('/static/font/LINESeedJP_OTF_Rg.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -35,7 +35,7 @@ custom.scss
 
 @font-face {
   font-family: 'LINE Seed JP';
-  src: url('/fonts/LINESeedJP_OTF_Bd.otf') format('opentype');
+  src: url('/static/font/LINESeedJP_OTF_Bd.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -43,7 +43,7 @@ custom.scss
 
 @font-face {
   font-family: 'LINE Seed JP';
-  src: url('/fonts/LINESeedJP_OTF_Eb.otf') format('opentype');
+  src: url('/static/font/LINESeedJP_OTF_Eb.otf') format('opentype');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -51,7 +51,7 @@ custom.scss
 
 @font-face {
   font-family: 'LINE Seed JP';
-  src: url('/fonts/LINESeedJP_OTF_Th.otf') format('opentype');
+  src: url('/static/font/LINESeedJP_OTF_Th.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -59,7 +59,7 @@ custom.scss
 
 @font-face {
   font-family: 'Juisee';
-  src: url('/fonts/Juisee-Regular.ttf') format('truetype');
+  src: url('/static/font/Juisee-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -67,7 +67,7 @@ custom.scss
 
 @font-face {
   font-family: 'Juisee';
-  src: url('/fonts/Juisee-Bold.ttf') format('truetype');
+  src: url('/static/font/Juisee-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -75,7 +75,7 @@ custom.scss
 
 @font-face {
   font-family: 'Juisee';
-  src: url('/fonts/Juisee-RegularItalic.ttf') format('truetype');
+  src: url('/static/font/Juisee-RegularItalic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -83,11 +83,12 @@ custom.scss
 
 @font-face {
   font-family: 'Juisee';
-  src: url('/fonts/Juisee-BoldItalic.ttf') format('truetype');
+  src: url('/static/font/Juisee-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
+
 
 ```
 
