@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-21T20:43
+modified: 2025-04-24T11:29
 ---
 
 
@@ -16,7 +16,7 @@ git remote -v
 元のリポジトリ（upstream）が設定されていなければ、次のコマンドで追加します。
 
 ```sh
-git remote add upstream https://github.com/元のリポジトリのURL.git
+git remote add upstream https://github.com/jackyzha0/quartz.git
 ```
 
 追加できたか確認：
@@ -35,16 +35,16 @@ git fetch upstream
 
 ### 3. Fork したリポジトリの main ブランチを Upstream の最新の状態に更新する
 
-まず、main ブランチに移動します。
+まず、v4 ブランチに移動します。
 
 ```sh
-git checkout main
+git checkout v4
 ```
 
 そして、Upstream の main ブランチの変更をマージします。
 
 ```sh
-git merge upstream/main
+git merge upstream/v4
 ```
 
 ### 4. Fork したリポジトリに変更をプッシュする（オプション）
