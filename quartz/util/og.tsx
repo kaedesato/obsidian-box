@@ -5,7 +5,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { JSXInternal } from "preact/src/jsx"
 import { FontSpecification, getFontSpecificationName, ThemeKey } from "./theme"
 import path from "path"
-import { QUARTZ } from "./path"
+import { QUARTZ, joinSegments } from "./path"
 import { formatDate, getDate } from "../components/Date"
 import readingTime from "reading-time"
 import { i18n } from "../i18n"
@@ -13,6 +13,13 @@ import chalk from "chalk"
 
 const defaultHeaderWeight = [700]
 const defaultBodyWeight = [400]
+
+// LINE Seed JP フォントのパス
+const lineSeedRegularPath = joinSegments(QUARTZ, "static", "fonts", "LINESeedJP_OTF_Rg.otf")
+const lineSeedBoldPath = joinSegments(QUARTZ, "static", "fonts", "LINESeedJP_OTF_Bd.otf")
+// Juisee フォントのパス
+const juiseeRegularPath = joinSegments(QUARTZ, "static", "fonts", "Juisee-Regular.ttf")
+const juiseeBoldPath = joinSegments(QUARTZ, "static", "fonts", "Juisee-Bold.ttf")
 
 export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: FontSpecification) {
   // Get all weights for header and body fonts
@@ -28,6 +35,53 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
   const headerFontName = typeof headerFont === "string" ? headerFont : headerFont.name
   const bodyFontName = typeof bodyFont === "string" ? bodyFont : bodyFont.name
 
+  // フォントの設定
+  let fonts: SatoriOptions["fonts"] = []
+  
+  // ローカルフォントを直接チェック - fontOriginはcfg.configuration.theme.fontOriginから取得します
+  try {
+    // LINE Seed JP (ヘッダーとボディ用)
+    if (headerFontName === "LINE Seed JP" || bodyFontName === "LINE Seed JP") {
+      fonts.push({
+        name: "LINE Seed JP",
+        data: await fs.readFile(path.resolve(lineSeedRegularPath)),
+        weight: 400,
+        style: "normal" as const,
+      })
+      fonts.push({
+        name: "LINE Seed JP",
+        data: await fs.readFile(path.resolve(lineSeedBoldPath)),
+        weight: 700,
+        style: "normal" as const,
+      })
+    }
+    
+    // Juisee (コード用)
+    if (headerFontName === "Juisee" || bodyFontName === "Juisee") {
+      fonts.push({
+        name: "Juisee",
+        data: await fs.readFile(path.resolve(juiseeRegularPath)),
+        weight: 400,
+        style: "normal" as const,
+      })
+      fonts.push({
+        name: "Juisee",
+        data: await fs.readFile(path.resolve(juiseeBoldPath)),
+        weight: 700,
+        style: "normal" as const,
+      })
+    }
+    
+    // ローカルフォントが正常に読み込まれた場合は、ここで関数を終了
+    if (fonts.length > 0) {
+      return fonts
+    }
+  } catch (error) {
+    console.log(chalk.yellow(`\nWarning: Failed to load local fonts: ${error}`))
+    // ローカルフォントの読み込みに失敗した場合は、Google Fontsにフォールバック
+  }
+
+  // 以下は元のGoogle Fontsからの読み込みコード（フォールバック用）
   // Fetch fonts for all weights and convert to satori format in one go
   const headerFontPromises = headerWeights.map(async (weight) => {
     const data = await fetchTtf(headerFontName, weight)
@@ -57,7 +111,7 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
   ])
 
   // Filter out any failed fetches and combine header and body fonts
-  const fonts: SatoriOptions["fonts"] = [
+  fonts = [
     ...headerFonts.filter((font): font is NonNullable<typeof font> => font !== null),
     ...bodyFonts.filter((font): font is NonNullable<typeof font> => font !== null),
   ]
