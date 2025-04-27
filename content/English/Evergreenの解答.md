@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-28T05:14
+modified: 2025-04-28T05:23
 ---
 
 
@@ -52,5 +52,13 @@ modified: 2025-04-28T05:14
 
 
 助動詞のまとめ
-- was able to
-- 
+- [x] was able to
+- [ ] must -> will have to
+- [x] don't have to
+- [ ] had not better -> had better not
+- [ ] should -> must
+- [x] need not 
+- [x] didn't need to lock
+- [x] used to
+- [x] may have been
+- [x] ought 
