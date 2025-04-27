@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-31T00:00
+modified: 2025-04-28T05:14
 ---
 
 
@@ -49,3 +49,8 @@ modified: 2025-01-31T00:00
 - going
 - is
 - bed -> the point of
+
+
+助動詞のまとめ
+- was able to
+- 
