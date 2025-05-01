@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-01T15:56
+modified: 2025-05-01T16:42
 ---
   
 
@@ -10,9 +10,7 @@ modified: 2025-05-01T15:56
 結論 shred
 
 - まずubuntuのBoot USBなどを作って Try ubuntuする。
-	- ubuntu serverはTry ubuntuできないかも。
-- とりあえずパーティションを整理したり、Diskをマウントする（GUIでできる、Gpartedとか）
-    - ドライブ名も確認しておく
+- とりあえずパーティションを整理したり、Diskをマウントす
 - `shred`をする
 
 ```Shell
