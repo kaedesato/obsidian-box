@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-05-01T15:56
 ---
   
 
@@ -9,7 +9,8 @@ modified: 2025-01-05T18:37
 
 結論 shred
 
-- まずubuntuのBoot USBなどを作って Try ubuntuする。\
+- まずubuntuのBoot USBなどを作って Try ubuntuする。
+	- ubuntu serverはTry ubuntuできないかも。
 - とりあえずパーティションを整理したり、Diskをマウントする（GUIでできる、Gpartedとか）
     - ドライブ名も確認しておく
 - `shred`をする
@@ -37,3 +38,5 @@ modified: 2025-01-05T18:37
 2回以上ランダム書き込みする意味はないと思われる。
 
 1回でも十分な安全性が担保されている。時間がアレば2回すればいい
+
+データ消去
