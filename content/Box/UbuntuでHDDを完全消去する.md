@@ -1,16 +1,13 @@
 ---
-modified: 2025-05-01T16:42
+modified: 2025-05-02T10:29
 ---
   
 
-  
-
-  
 
 結論 shred
 
 - まずubuntuのBoot USBなどを作って Try ubuntuする。
-- とりあえずパーティションを整理したり、Diskをマウントす
+- とりあえずパーティションを整理したりする。
 - `shred`をする
 
 ```Shell

@@ -1,5 +1,7 @@
 ---
-modified: 2025-01-31T18:06
+modified: 2025-05-02T10:55
+tags:
+  - programming
 ---
 
 ### [Git](https://git-scm.com/book/ja/v2)
