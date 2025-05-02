@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-02T13:57
+modified: 2025-05-02T14:15
 tags:
   - programming
 ---
@@ -14,6 +14,7 @@ tags:
 Functinosをデプロイする必要がある。
 （これ、どのドキュメントにも書かれてない…）
 
+いろいろ実験しておかないと…
 
 
 Netlify.toml
