@@ -1,11 +1,9 @@
 ---
-modified: 2025-05-06T02:12
+modified: 2025-05-06T02:31
 ---
 
 
-
 https://forums.sharpcap.co.uk/viewtopic.php?t=254
-
 
 まずPIPPでDebayeringする。
 ※PIPPのサイトが終了したっぽいのでWayback Machineしか無い。
