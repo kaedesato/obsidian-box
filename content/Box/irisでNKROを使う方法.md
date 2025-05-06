@@ -1,7 +1,9 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-05-06T21:50
 ---
-# irisでNKROを使う方法
+
+[[QMK]]でいじる必要がある
+
 
 > You will need to have a QMK Build Environment setup, set NKRO_ENABLE = yes in your rules.mk, and then pressing the Magic N command (LShift+RShift+N by default) to turn on NKRO.
 > 
