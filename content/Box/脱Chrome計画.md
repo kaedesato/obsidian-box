@@ -1,8 +1,11 @@
 ---
-modified: 2025-05-07T23:31
+modified: 2025-05-08T10:54
 ---
 
 （本気度は無いです）
+ → Google Discoverというか、Geminiとか、そのへんのものに食わせたい欲求が高すぎて…
+
+
 
 MigakuとかLanguage Reactorが重い？
 お互い干渉するので、分けたい？
@@ -16,4 +19,6 @@ Chromeを使う理由ってある？
 - 拡張機能
 	- Migakuとか
 - Google Pay
-- 
+- Google Discoverの最適化
+	- これ検索だけで動いてる？ 
+

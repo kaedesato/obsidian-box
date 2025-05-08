@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-05-08T10:22
 ---
   
 
@@ -30,6 +30,7 @@ modified: 2025-01-05T18:37
 ２個ダウンロードされる。ダウンロード終了後にffmpegで結合する（特にオプションは不要）
 
 ※なんかいまyt-dlpの方で自動でマージしてくれるらしい。
+※※これ、ffmpegをインストール（Path通し）してる場合だけかも？
 
 ```JavaScript
 ffmpeg -i FILE_1 -i FILE_2 ~/output.mp4
