@@ -1,24 +1,25 @@
 ---
-modified: 2025-05-08T10:54
+modified: 2025-05-08T14:22
 ---
 
-（本気度は無いです）
- → Google Discoverというか、Geminiとか、そのへんのものに食わせたい欲求が高すぎて…
+Google Discoverというか、Geminiとか、そのへんのものに食わせたい欲求が高すぎて…
 
-
-
+### Chromeを辞める理由
 MigakuとかLanguage Reactorが重い？
 お互い干渉するので、分けたい？
 
-Chromeを辞める理由ってある？
 
-
-Chromeを使う理由ってある？
+### Chromeを使う理由？
+Firefox系にない機能
 - HIDのやつ
 	- VIAとか、VIAL、 Remap
 - 拡張機能
 	- Migakuとか
+- FirefoxはデフォルトでPWAが使えない
+
+Chromium系でもChromeにしかできないこと
+- Google 翻訳
+	- これはブラウザ標準の翻訳の中では一番精度がいいと思う。
 - Google Pay
 - Google Discoverの最適化
 	- これ検索だけで動いてる？ 
-
