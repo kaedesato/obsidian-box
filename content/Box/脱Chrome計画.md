@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-08T14:22
+modified: 2025-05-10T18:11
 ---
 
 Google Discoverというか、Geminiとか、そのへんのものに食わせたい欲求が高すぎて…
@@ -7,6 +7,8 @@ Google Discoverというか、Geminiとか、そのへんのものに食わせ�
 ### Chromeを辞める理由
 MigakuとかLanguage Reactorが重い？
 お互い干渉するので、分けたい？
+Zen Browserが使いやすい
+- Firefoxのゼロコンフィグ性
 
 
 ### Chromeを使う理由？
@@ -23,3 +25,9 @@ Chromium系でもChromeにしかできないこと
 - Google Pay
 - Google Discoverの最適化
 	- これ検索だけで動いてる？ 
+
+
+---
+
+ブラウザのワークフロー
+
