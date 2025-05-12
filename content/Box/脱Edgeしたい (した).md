@@ -1,7 +1,15 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-05-12T13:42
+Relation:
+  - "[[ブラウザ]]"
 ---
-# 脱Edgeしたい
+
+
+遍歴
+Vivaldi → Edge （下はここ時点での内容）→ Vivaldi → Arc → Firefox → Zen？
+
+---
+※下は当時の話
 
 - 配信に使っている
 - Microsoftアカウントと連動してしまうので、Windowsのセットアップをするといきなり同期してしまってキモイことになる。

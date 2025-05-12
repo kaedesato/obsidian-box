@@ -1,9 +1,9 @@
 ---
-modified: 2025-05-10T18:56
+modified: 2025-05-12T13:35
 ---
 [Zen Browser](https://zen-browser.app/)
 
-簡単に言うとArcのFirefox版
+簡単に言うとArcの[[Firefox]]版
 （開発は別）
 
 Arcだと一部の拡張機能が使えなかったので、使用をやめた経緯がある。

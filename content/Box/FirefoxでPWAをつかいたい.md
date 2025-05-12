@@ -1,5 +1,7 @@
 ---
-modified: 2025-05-08T14:44
+modified: 2025-05-12T13:35
+Relation:
+  - "[[Firefox]]"
 ---
 
 > Firefox と Safari は、マニフェストファイルを使用した PWA のインストールに対応していません。

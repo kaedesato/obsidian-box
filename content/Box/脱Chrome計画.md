@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-10T18:46
+modified: 2025-05-12T13:36
 ---
 
 Google Discoverというか、Geminiとか、そのへんのものに食わせたい欲求が高すぎて…
@@ -12,12 +12,13 @@ MigakuとかLanguage Reactorが重い？
 
 
 ### Chromeを使う理由？
-Firefox系にない機能
+[[Firefox]]系にない機能
 - HIDのやつ
 	- VIAとか、VIAL、 Remap
 - 拡張機能
-	- Migakuとか
+	- [[Migaku]]とか
 - FirefoxはデフォルトでPWAが使えない
+	- [[FirefoxでPWAをつかいたい]]
 
 Chromium系でもChromeにしかできないこと
 - Google 翻訳
