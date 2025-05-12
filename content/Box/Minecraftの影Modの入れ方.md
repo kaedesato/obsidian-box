@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-13T20:28
+modified: 2025-05-12T13:07
 ---
 
 
@@ -16,7 +16,7 @@ url: "https://www.irisshaders.dev/download"
 Modを入れないときはFabricはいらないはず。
 
 Iris Onlyで大丈夫なはず。
-![[Pasted image 20250113194459.png]]
+![[Pasted image 20250113194459.webp]]
 これでOK
 
 ランチャーは再起動しないと出てこない。

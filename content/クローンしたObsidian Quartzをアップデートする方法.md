@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-24T11:29
+modified: 2025-05-12T13:16
 ---
 
 
@@ -7,7 +7,7 @@ modified: 2025-04-24T11:29
 ### 1. Upstream リポジトリを追加する
 
 Fork したリポジトリを Codespaces で開いたら、まず `git remote -v` でリモートリポジトリの状態を確認します。  
-通常、`origin` だけが表示されます（あなたの Fork したリポジトリ）。
+通常、`origin` だけが表示されます。
 
 ```sh
 git remote -v
