@@ -1,6 +1,5 @@
 ---
-date: 2025-01-07T01:22
-modified: 2025-01-09T20:18
+modified: 2025-05-13T14:34
 ---
 
 > [!important] **VRChatは肩書を作るゲーム**

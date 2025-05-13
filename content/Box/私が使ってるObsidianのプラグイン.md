@@ -1,7 +1,7 @@
 ---
 tags:
   - Obsidian
-modified: 2025-05-13T14:13
+modified: 2025-05-13T14:32
 ---
 
 
@@ -29,6 +29,8 @@ modified: 2025-05-13T14:13
 
 ### Multi Properties
 プロパティを一括編集できるやつ。
+[[ObsidianのMulti PropertiesでModifiledを編集したら、全部更新されてしまった。]]
+これを使うときは、Update Time on Editを無効化しておいたほうがいい。
 
 
 ### [[Image Converter]]
