@@ -1,10 +1,10 @@
 ---
-modified: 2025-05-02T10:54
 Relation:
   - "[[Gitのチュートリアル]]"
   - "[[Git]]"
 tags:
   - programming
+modified: 2025-05-13T13:52
 ---
 
 ### Gitはバージョンコントロールシステム

@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-12T15:18
+modified: 2025-05-13T13:52
 ---
 
 Google Discoverというか、Geminiとか、そのへんのものに食わせたい欲求が高すぎて…

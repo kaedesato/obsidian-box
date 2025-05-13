@@ -1,10 +1,11 @@
 ---
-modified: 2025-05-12T13:13
 tags:
   - Obsidian
-date: 2025-01-17T18:52
+modified: 2025-05-13T14:13
 ---
 
+
+[[Obsidianのプラグイン]]
 
 
 ### Remotely Save
@@ -28,6 +29,7 @@ date: 2025-01-17T18:52
 
 ### Multi Properties
 プロパティを一括編集できるやつ。
+
 
 ### [[Image Converter]]
 自動でwebpとかに変換してくれるやつ。今まで保存したやつも一括で変換してくれる。

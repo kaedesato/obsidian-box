@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-29T21:39
+modified: 2025-05-13T13:52
 ---
 
 Tecsee Mediumの上位互換... ではなかった。

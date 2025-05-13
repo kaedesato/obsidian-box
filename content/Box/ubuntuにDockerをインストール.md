@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-13T10:17
+modified: 2025-05-13T13:57
 ---
   
 
@@ -7,9 +7,8 @@ modified: 2025-05-13T10:17
 > Jumpstart your client-side server applications with Docker Engine on Ubuntu.  
 > [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)  
 
-  
 
-  
+
 
 ```Shell
 # Add Docker's official GPG key:

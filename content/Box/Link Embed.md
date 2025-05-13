@@ -1,9 +1,9 @@
 ---
-modified: 2025-05-02T11:00
 tags:
   - Obsidian
 Relation:
   - "[[Obsidian]]"
+modified: 2025-05-13T13:52
 ---
 プラグイン
 

@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-12T15:16
+modified: 2025-05-13T13:52
 ---
 Chromium系でもChromeにしかできないこと
 - Google 翻訳

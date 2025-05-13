@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-30T17:34
+modified: 2025-05-13T13:51
 ---
 
 [[Word Mining]]や[[SRS]]ができるアプリ。

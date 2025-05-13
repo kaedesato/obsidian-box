@@ -1,7 +1,5 @@
 ---
-modified: 2025-01-24T21:39
-created: 2025-01-04T01:01
-date: 2025-01-21T14:09
+modified: 2025-05-13T13:52
 ---
 > [!important] **YouTubeでいい。**
 
