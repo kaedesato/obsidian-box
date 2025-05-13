@@ -1,5 +1,5 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-05-13T10:17
 ---
   
 
@@ -31,14 +31,10 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
   
 
-test
+インストールできているかのテスト
 
 ```Shell
  sudo docker run --rm hello-world
 ```
 
   
-
-  
-
-ユーザーでDockerを使えるようにする。（あんま意味ない）
