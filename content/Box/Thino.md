@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-14T20:21
+modified: 2025-05-14T22:59
 ---
 
 なんか、XとかMisskeyみたいなSNSっぽい感じで、
@@ -7,6 +7,8 @@ modified: 2025-05-14T20:21
 
 
 Kaede
+https://i.imgur.com/JArUwhp.png
+Output!!
 
 
 ---
