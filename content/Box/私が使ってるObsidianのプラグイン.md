@@ -1,7 +1,7 @@
 ---
 tags:
   - Obsidian
-modified: 2025-05-13T14:32
+modified: 2025-05-14T20:23
 ---
 
 
@@ -36,5 +36,5 @@ modified: 2025-05-13T14:32
 ### [[Image Converter]]
 自動でwebpとかに変換してくれるやつ。今まで保存したやつも一括で変換してくれる。
 
-https://github.com/xRyul/obsidian-image-converter/assets/47340038/63a0646b-29ec-4055-abfc-55d31e07b2f7
+https://github.com/xRyul/obsidian-image-converter/
 
