@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-13T13:52
+modified: 2025-05-17T19:44
 ---
 
 Google Discoverというか、Geminiとか、そのへんのものに食わせたい欲求が高すぎて…
@@ -23,6 +23,7 @@ MigakuとかLanguage Reactorが重い？
 
 
 ![[Chromium系でもChromeにしかできないこと]]
+
 
 
 ---
