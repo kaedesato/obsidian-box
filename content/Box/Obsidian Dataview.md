@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-13T15:13
+modified: 2025-05-18T13:57
 ---
 
 なんか使うの難しそう…
@@ -20,7 +20,7 @@ DataViewの表示形式
 試しに、modifiledがついてないやつを抽出するコード書いてみた。（Geminiさんで）
 ```dataview
 LIST
-FROM !"English"
+FROM ""
 WHERE !modified OR modified = null OR modified = ""
 ```
 
