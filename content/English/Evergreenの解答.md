@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-21T00:11
+modified: 2025-05-21T00:30
 ---
 
 
@@ -64,7 +64,12 @@ modified: 2025-05-21T00:11
 - [x] ought 
 
 51
-- [ ] to become pilot
-- [ ] to win this race
-- [ ] to become a teacher
+- [x] to become pilot
+- [x] to win this race
+- [x] to become a teacher
 
+52
+- [x] someone to look after him
+- [x] no books to read
+- [x] someone to play chess with
+- [x] her promise to meet me
