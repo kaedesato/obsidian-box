@@ -1,6 +1,9 @@
 ---
-modified: 2025-05-10T16:00
+modified: 2025-05-25T13:50
 ---
+
+
+[[NotionからCosenseに戻さず、Obsidianにした話]]
 
 
 ゆっくり書きます。
