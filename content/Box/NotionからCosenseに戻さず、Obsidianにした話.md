@@ -1,10 +1,10 @@
 ---
-modified: 2025-05-25T13:52
+modified: 2025-05-25T20:51
 ---
 
 
 ここでは、
-脱Notionするんだけど、Cosenseを選ばなかずにObsidianを選んだ理由
+脱[[Notion]]するんだけど、Cosenseを選ばなかずに[[Obsidian]]を選んだ理由
 
 つまり、CosenseとObsidianの比較みたいなことを書きます。
 NotionとObsidianの比較は、
@@ -15,4 +15,7 @@ NotionとObsidianの比較は、
 
 ### そもそも移行できない
 Cosenseはインポート機能がないので、一括で移行することができません。
+終わりです。
+
+### スマホのコピペ、セレクトがめちゃしにくい。
 
