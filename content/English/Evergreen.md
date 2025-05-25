@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-25T12:07
+modified: 2025-05-25T12:34
 ---
 
 序章
@@ -85,5 +85,8 @@ enough ... to
 so ... as to
 so as to
 in order to
+
+toの慣用表現　p211
+
 
 

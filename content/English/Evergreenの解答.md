@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-25T12:15
+modified: 2025-05-25T12:40
 ---
 
 
@@ -88,15 +88,25 @@ modified: 2025-05-25T12:15
 - [x] I don't want it to be done so carelessly 
 
 59
-- [ ] I happen to sit next to the singer
-- [ ] The painting turn out to be a fake
-- [ ] How did you come to know her 
+- [x] I happen to sit next to the singer
+- [x] The painting turn out to be a fake
+- [x] How did you come to know her 
 
 
 61
-- [ ] She is hard to get along with
-- [ ] The bag is too heavy to carry in one hand
-- [ ] She was enough smart to understand the lecture 
-- [ ] The young man was as
+- [x] She is hard to get along with
+- [x] The bag is too heavy to carry in one hand
+- [ ] She was enough smart to understand the lecture > smart enough
+- [x] The young man was so brave as to save the drowning child
+- [x] My cousin studied hard in order to get the licence
+
+62
+- [x] what to
+- [x] How to
+- [ ] not to say, >needles to say
+- [x] to
+
+
+
 
 
