@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-20T23:58
+modified: 2025-05-25T12:07
 ---
 
 序章
@@ -74,5 +74,16 @@ should, ought to
 
 
 知覚動詞と使役動詞
+
+be動詞+不定詞で可能でないことを表すパターンがあるらしい
+Not a sound was to be heard. 
+
+Our teacher is easy to talk with.
+
+too ... to
+enough ... to
+so ... as to
+so as to
+in order to
 
 

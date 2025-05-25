@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-21T00:30
+modified: 2025-05-25T12:15
 ---
 
 
@@ -73,3 +73,30 @@ modified: 2025-05-21T00:30
 - [x] no books to read
 - [x] someone to play chess with
 - [x] her promise to meet me
+
+57
+- [x] try
+- [ ] to shout >shout
+- [ ] turn > to turn
+- [ ] to enter > enter
+- [x] to buy
+
+58
+- [x] You seem to be interested in my success story
+- [x] He seems to have told a lie
+- [x] The baby in that car seems to be crying
+- [x] I don't want it to be done so carelessly 
+
+59
+- [ ] I happen to sit next to the singer
+- [ ] The painting turn out to be a fake
+- [ ] How did you come to know her 
+
+
+61
+- [ ] She is hard to get along with
+- [ ] The bag is too heavy to carry in one hand
+- [ ] She was enough smart to understand the lecture 
+- [ ] The young man was as
+
+
