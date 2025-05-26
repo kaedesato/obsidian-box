@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: { provider: 'google', tagId: 'G-FKS35GN7DG' },
     locale: "en-US",
     baseUrl: "obsidian.kaedesato.work",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian","Daily"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
