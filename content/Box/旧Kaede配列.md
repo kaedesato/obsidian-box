@@ -1,11 +1,9 @@
 ---
-modified: 2025-05-13T14:34
+modified: 2025-05-30T15:52
 ---
-# Kaede配列
 
 元々はWorkman-jpだったのにKaede配列という名前になりました
 
-https://scrapbox.io/files/64b27f8a403ded001bfa0e0e.png
 
 大西配列となにが違うのか
 
