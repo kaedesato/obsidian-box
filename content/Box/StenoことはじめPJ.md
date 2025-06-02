@@ -1,8 +1,9 @@
 ---
-modified: 2025-06-02T16:15
+modified: 2025-06-02T16:52
 ---
 
 やばそう。
+[[Stenograph Keyboard]]
 
 
 Ploverのインストール
@@ -19,8 +20,35 @@ Plover駆動モード
 ![[Steno_keys_on_QWERTY_keyboard_by_Jen.webp|497x188]]
 
 でも、ShiftとかのModキーは変更されないので、これでもいい。
-（むしろ、Hold&Tapができなくなる可能性もあるので、これの宝木）
+（むしろ、Hold&Tapができなくなる可能性もあるので、これの方が良いかもしれない）
+これのキーの割当もPloverから変えられたので、[[大西配列]]とか使うことができる。
 
 
 geminiPRのキーコードを送る場合
+QMK (VIAL、VIA)で、Stenographyを有効化する。
+geminiPRコードをいれると、Ploverの方でオンオフしなくても、
+
+↑これなんか、Ploverの機能でできるらしい？
+
+- **`{PLOVER:TOGGLE}`**: Ploverの出力を有効/無効に切り替えます。
+    - デフォルトのストロークは `PHROLG` です。これは "PLOver toGGLe" の略で、PLOLG (PHROLG) と覚えることができます。
+- **`{PLOVER:SUSPEND}`**: Ploverの出力を無効にします（一時停止）。通常のキーボード入力に戻したい場合に便利です。
+    - デフォルトのストロークは `PHRO*F` です。これは "PLOver OFf" の略です。
+- **`{PLOVER:RESUME}`**: Ploverの出力を再度有効にします。
+    - デフォルトのストロークは `PHROPB` です。これは "PLOver ON" の略です。
+
+
+|         |         |
+| ------- | ------- |
+| PHRO LG | erfv ol |
+| PHRO *F | erfv hu |
+| PHRO PB | erfv ik |
+
+
+### 課題
+
+まじで初心者の頃どうやって実践練習するのか。
+「かな」や「ローマ字」配列だったら、配列図を見れば、簡単に練習できたけど、
+ステノはそうはいかない…、ぎりLookupはあるけど…
+
 
