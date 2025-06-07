@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-07T15:03
+modified: 2025-06-07T15:57
 ---
 
 
@@ -16,7 +16,9 @@ Macchinaはイタリア語で、機械・車・タイプライターという意
 
 
 配列図
-![it-mich.png](https://github.com/Kaoffie/steno_diags/blob/master/converted/it-mich.png?raw=true)
+![it-mich.png|589x418](https://github.com/Kaoffie/steno_diags/blob/master/converted/it-mich.png?raw=true)
+[Steno layouts and supported languages - Plover Wiki](https://plover.wiki/index.php/Steno_Layouts_and_Supported_Languages#Michela)
+
 
 
 ### 歴史ばか長い。
