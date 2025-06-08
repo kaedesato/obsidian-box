@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-04T16:36
+modified: 2025-06-08T13:47
 ---
 ![jp-hach.svg|559x397](https://raw.githubusercontent.com/Kaoffie/steno_diags/b5fd065f6fb9c03abfdd617fa73390d594808ec5/assets/jp-hach.svg)
 レポジトリ
@@ -27,6 +27,7 @@ PloverのPluginのGitからインストールのボタンをクリック。
 → Pythonのコードみたらめっちゃわかった。
 
 
+[[Machibariチートシート]]
 
 
 
