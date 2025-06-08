@@ -1,6 +1,7 @@
 ---
-modified: 2025-06-02T15:49
+modified: 2025-06-08T15:19
 ---
+[[ステノグラフが難しい]]
 
 
 [[Stenograph Keyboard]]
