@@ -1,9 +1,10 @@
 ---
-modified: 2025-06-08T14:15
+modified: 2025-06-08T19:59
 ---
 
 つくる。
 
+![[Stenograph Layout Template.webp]]
 
 ### 母音
 
