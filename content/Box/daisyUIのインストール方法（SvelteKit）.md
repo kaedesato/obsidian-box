@@ -1,13 +1,44 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-06-19T11:55
 ---
-> [!info] How to install SvelteKit with daisyUI? — Tailwind CSS Components ( version 4 update is here )  
-> SvelteKit is a meta framework for building web applications.  
-> [https://daisyui.com/blog/how-to-install-sveltekit-and-daisyui/](https://daisyui.com/blog/how-to-install-sveltekit-and-daisyui/)  
 
-これでしかない。これ見てやればよかった。
+[Install daisyUI for SvelteKit — Tailwind CSS Components ( version 5 update is here )](https://daisyui.com/docs/install/sveltekit/)
 
-  
+Tailwind CSSをViteでインストールする。
+
+（svでsveltekitをインストールするときにTailwindを選択していれば、Viteのやつが入ってるはず。Viteconfigをみて）
+
+```sh
+npm install daisyui@latest
+```
+
+src/app.cssに@pluginでdaisyuiを追加する
+
+```css
+@import "tailwindcss";
+@plugin "daisyui";
+```
+
+これで終わりです。
+
+
+
+daisyuiのconfig
+
+
+
+### For Cursor
+
+　[Cursor setup for daisyUI — Tailwind CSS Components ( version 5 update is here )](https://daisyui.com/docs/editor/cursor/)
+
+
+
+
+
+--- 
+下は古いやつです！！！
+
+
 
 daisyUIのconfig
 
