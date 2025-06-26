@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-26T16:59
+modified: 2025-06-26T17:57
 ---
 
 
@@ -62,3 +62,10 @@ Ok to proceed? (y)
 prettier, eslint, tailwindcss, drizzle, lucia
 一応TailwindのTypographyをいれた。
 
+daisyuiのインストール
+```sh
+npm i -D daisyui@latest
+```
+
+
+WSL使えない環境でTursoのセットアップ無理だったりする？
