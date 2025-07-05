@@ -1,18 +1,17 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-07-05T11:22
 ---
   
+いい感じのが見つからない…
 
   
-
-何個？
-
-- Windows
+- Windows 青
     - 8GB以上のUSB
-- Ubuntu
-    - 5.8GB
-- Chrome
+- Ubuntu オレンジ
+    - 5.9GB
+- Chrome 緑
     - 8GB以上のUSB
+
 - 汎用
     - まあ多ければ多いほどいいか
 
