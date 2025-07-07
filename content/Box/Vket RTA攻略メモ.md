@@ -1,16 +1,23 @@
 ---
-modified: 2025-07-07T22:24
+modified: 2025-07-07T22:59
 ---
 
 
 本番用
 - 3倍速にする
 - ワールド事前ダウンロード
+- セーブ
+
+各会場で2つの実績
+
+
 
 ---
 ### いろいろメモ
 
+![[GAbJAMia8AAEg_F.webp]]
 
+![https://x.com/Virtual\_Market\_/status/1731599234393166241](https://x.com/Virtual_Market_/status/1731599234393166241)
 
 
 
