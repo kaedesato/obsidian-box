@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-18T12:48
+modified: 2025-07-07T16:54
 ---
 
 
@@ -19,3 +19,5 @@ pm2 startup
 pm2 save
 ```
 
+
+pm2 logs sveltekit-app
