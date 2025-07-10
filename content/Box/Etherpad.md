@@ -1,8 +1,8 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-07-10T08:51
 ---
-# Etherpad
+
 
 セルフホストできるGoogle ドキュメント
 
-[https://etherpad.org/`#about`Etherpad]
+https://etherpad.org/#aboutEtherpad

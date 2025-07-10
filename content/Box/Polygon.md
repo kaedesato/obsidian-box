@@ -1,11 +1,11 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2025-07-10T08:52
 ---
-# Polygon
+
 
 Ethのレイヤー２
 
-PoSによるマイニングでいじ
+PoSによるマイニングで維持
 
 https://wiki.polygon.technology/docs/operate/technical-requirements
 
