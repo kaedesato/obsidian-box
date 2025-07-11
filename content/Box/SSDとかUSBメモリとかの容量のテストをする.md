@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-11T17:07
+modified: 2025-07-11T17:56
 ---
 
 H2testwってやつを使うらしい。
@@ -23,4 +23,21 @@ You can now delete the test files *.h2w or verify them again.
 Writing speed: 18.0 MByte/s
 Reading speed: 120 MByte/s
 H2testw v1.4
+```
+
+```
+Test finished without errors.
+You can now delete the test files *.h2w or verify them again.
+Writing speed: 17.6 MByte/s
+Reading speed: 114 MByte/s
+H2testw v1.4
+```
+
+```
+Test finished without errors.
+You can now delete the test files *.h2w or verify them again.
+Writing speed: 17.6 MByte/s
+Reading speed: 121 MByte/s
+H2testw v1.4
+
 ```
