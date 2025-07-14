@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-14T13:47
+modified: 2025-07-14T16:46
 ---
 
 
@@ -110,5 +110,25 @@ Tursoを使おうが、D1を使おうが、認証だけSupabaseAuthを使うっ�
 DBに関しては
 純粋にD1とかTursoを使ってみたいという気持ちがある。
 
+Supabase Authはセルフホスト時にSupabaseに縛られるというデメリットが有る。
+→ 最終的には余裕が出てきたどっかのタイミングでBetter Authに移行しそうな雰囲気がある。
+
+パット見でBetter Authかなり簡単そう。
+Better Auth使うなら、DBをSupabaseにする意味がほぼない。D1でいい。
+D1とTursoだったら…D1でできないことがあったらTursoにするか。。。。
+もしくは、Netlifyとかにデプロイすることも考えて最初からTursoにしておくか。
 
 
+AuthはBetter Authってやつ使ってみようと思った。
+
+TursoかD1か…
+
+> セルフホストの人とか、一緒に開発してくれる人が、Cloudflareのアカウントあればすぐできるのがいいところかなと思った。
+
+Tursoでも、まあローカル開発はローカルのlibSQLで！っていう感じでできるけど…
+
+一旦Full Cloudflare構成でつくるかー
+ロマンある。
+
+ってことで。
+今の構成からLuciaを外してBetter AuthにすればOK！
