@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-14T16:48
+modified: 2025-07-17T17:19
 ---
 
 
@@ -134,3 +134,7 @@ Tursoでも、まあローカル開発はローカルのlibSQLで！っていう
 今の構成からLuciaを外してBetter AuthにすればOK！
 
 ---
+
+まじでBetter Authわからない。
+Better Authがわかんないっていうか、Cloudflare D1との連携がわかんない…
+
