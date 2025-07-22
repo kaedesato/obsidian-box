@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-17T17:19
+modified: 2025-07-22T12:54
 ---
 
 
@@ -138,3 +138,14 @@ Tursoでも、まあローカル開発はローカルのlibSQLで！っていう
 まじでBetter Authわからない。
 Better Authがわかんないっていうか、Cloudflare D1との連携がわかんない…
 
+
+
+---
+
+Cloudflare環境わからなすぎる。
+Cloudflareバージョンはあとから整備するとして、Cloudflareじゃない環境
+Netlify + Tursoで作ろうかなと思う。
+Netlifyは特段特殊な環境ではないし、TursoもlibSQL ServerというOSSがあるので、
+全部ひっくるめてDockerとかにもできそうかなと思う。
+
+まず、セルフホストと開発はともかくとして、動くものを作りたい。
