@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-23T17:51
+modified: 2025-07-23T18:38
 ---
 
 
@@ -155,4 +155,9 @@ Netlifyは特段特殊な環境ではないし、TursoもlibSQL ServerというO
 なんやかんやTursoとBetter Authの認証とルーティングがうまくできたと思う。
 
 ClineやKiloの待ち時間があるのがいいなと思った。
+
+とりあえずKilo使ってみてるけどいい感じ。
+Clineより自律的だなーと思う？
+
+
 
