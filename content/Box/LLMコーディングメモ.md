@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-23T16:15
+modified: 2025-07-23T17:30
 ---
 
 ### お気持ちゾーン
@@ -8,10 +8,14 @@ modified: 2025-07-23T16:15
 - Cursorは無料プランだとほぼ何もできなくなった。
 - Clineは色々できるなと思った。でも料金がエグい…？
 - Kiloの方が使いやすい？
-- 
 
 
 
+### Tips
+
+KiloやClineの待ち時間でドキュメントを書きまくる。
+
+KiloやClineはGemini CLIやClaude Codeと連携できる。
 
 
 
