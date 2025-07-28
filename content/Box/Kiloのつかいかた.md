@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-28T16:00
+modified: 2025-07-28T17:09
 ---
 
 
@@ -43,6 +43,8 @@ Vectorを保存するDBサーバー（Qdrant）が必要。（Dockerなどで立
 
 Clineは意図的にこの機能が無いみたい…
 [Why Cline Doesn't Index Your Codebase (And Why That's a Good Thing) - Cline Blog](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
+とりあえず、チャンクでくぎることがプログラミングには向いてないだろ！みたいなこと書いてある。
+→ [[Obsidian + Kilo + Qdrant でいい感じのシステム組めそう]]
 
 
 
@@ -52,8 +54,9 @@ Clineは意図的にこの機能が無いみたい…
 
 
 
-### 小技
+### 設定
 
 レートリミットの設定
 → 3sにしておくと良い？。Open Routerのフリーのレートリミットが1分間に20Reqなので。
+
 
