@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-28T13:08
+modified: 2025-07-28T13:45
 ---
 
 ### お気持ちゾーン
@@ -25,7 +25,7 @@ KiloやClineはGemini CLIやClaude Codeと連携できる。
 
 
 ---
-[[kiloやClineのモデル選定]]
+[[KiloやClineのモデル選定]]
 
 - GitHub Copilot
 - Cline
