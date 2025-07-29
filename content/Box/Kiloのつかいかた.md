@@ -1,9 +1,11 @@
 ---
-modified: 2025-07-28T17:09
+modified: 2025-07-29T14:33
 ---
 
 
 ### Kiloのモード
+
+各モードごとに、利用するモデルを変える・設定することができるみたい。
 
 
 ### Custom Rules
@@ -13,6 +15,8 @@ modified: 2025-07-28T17:09
 `.kilocode/rules/`に保存する。
 一応 `.clinerules`も読めるみたい
 
+コーディング規約とかを書いておく
+Markdown
 
 
 ### Memory Bank
@@ -21,7 +25,6 @@ modified: 2025-07-28T17:09
 
 現在のプロジェクトの情報を解析して保存しておくもの。
 
-
 Memory Bankのファイル
 - brief.md
 - product.md
@@ -29,6 +32,8 @@ Memory Bankのファイル
 - architecture.md
 - tech.md
 - tasks.md
+など…これ以外を入れてもいいらしいけど、これらは最低でも入れておく（自動的に作られる）
+
 
 
 ### Codebase Indexing
@@ -49,6 +54,7 @@ Clineは意図的にこの機能が無いみたい…
 
 
 ### Kiloのモデル
+
 
 ![[KiloやClineのモデル選定]]
 

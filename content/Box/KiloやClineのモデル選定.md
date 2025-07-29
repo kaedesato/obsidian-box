@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-28T15:00
+modified: 2025-07-29T15:17
 ---
 
 
@@ -30,8 +30,10 @@ modified: 2025-07-28T15:00
 
 Gemini CLIは無料（Opt-In）
 Claude Codeは月額課金で20ドルと100ドルの2種類のプランがある。
-Open Routerは従量課金。
+Open Routerは従量課金だけど無料プランもある。
 
+Gemini CLI すぐレートリミットになるから…
+でも、Flashはほぼ無制限に使えるのがでかすぎる。
 
 ### Temperature
 
