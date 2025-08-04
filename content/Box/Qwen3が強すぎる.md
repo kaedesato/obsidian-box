@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-03T19:52
+modified: 2025-08-04T11:55
 ---
 
 
@@ -23,10 +23,10 @@ Qwen3は、いったんここでは`qwen3-235b-a22b-thinking-2507`を指しま�
 | モデル              | input/1m | Throughput |
 | ---------------- | -------- | ---------- |
 | Qwen3 (Chutes)   | 0.118    | 76.49      |
-| Qwen3 (Cerebras) | 0.60     | 784.12     |
-| Gemini2.5 Flash  | 0.30     | 128.78     |
-| Claude4 Sonnet   | 3        | 56.92      |
-|                  |          |            |
+| Qwen3 (Cerebras) | 0.600    | 784.12     |
+| Gemini2.5 Flash  | 0.300    | 128.78     |
+| Claude4 Sonnet   | 3.000    | 56.92      |
+| Qwen3-Coder      | 0.308    | 35.27      |
 
 ※アウトプットは、KiloとかClineにおいて
 
