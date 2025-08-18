@@ -1,8 +1,8 @@
 ---
-modified: 2025-07-30T16:39
+modified: 2025-08-18T14:34
 ---
 
 - [[Sazanamiの料金プラン]]
 - [[Sazanami日誌]]
 - [[Sazanami開発記録]]
-- [[Sazanamiの哲学]]
+- [[Sazanamiの思想]]
