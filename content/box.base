@@ -1,0 +1,29 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Box"
+    order:
+      - file.name
+      - modified
+      - file.backlinks
+    sort:
+      - property: modified
+        direction: DESC
+    cardSize: 190
+    imageFit: ""
+  - type: table
+    name: View 2
+    filters:
+      and:
+        - file.folder == "Box"
+    order:
+      - modified
+      - file.name
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.modified: 120
+      file.name: 482
