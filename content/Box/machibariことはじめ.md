@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-08T13:47
+modified: 2025-09-29T17:33
 ---
 ![jp-hach.svg|559x397](https://raw.githubusercontent.com/Kaoffie/steno_diags/b5fd065f6fb9c03abfdd617fa73390d594808ec5/assets/jp-hach.svg)
 レポジトリ
@@ -29,7 +29,12 @@ PloverのPluginのGitからインストールのボタンをクリック。
 
 [[Machibariチートシート]]
 
+---
 
+なんか、母音を人差し指に移動できそうな雰囲気はある。
+→ 多分、英語のステノとある程度互換性を持たせておきたいみたいな思想がありそう。
+
+　
 
 
 
