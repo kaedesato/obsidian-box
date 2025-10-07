@@ -1,5 +1,5 @@
 ---
-modified: 2025-10-06T16:04
+modified: 2025-10-07T17:22
 ---
 
 [Karas - Google スプレッドシート](https://docs.google.com/spreadsheets/d/1PwH98b0rkI0yCFDtVBpJE3faYiAO-95hJOz2bsXHOpQ/edit?usp=sharing)
@@ -181,8 +181,9 @@ AIOの3bitで実現している。
 - 「い」「う」は母音として実装→やめます。ショートカットに組み込む。
 - 「く」「つ」は実装したいけど、「い」「う」の実装と干渉する
 
+ここまでの思想どっかでまとめておきたい…
 
 ---
 
-ここまでの思想どっかでまとめておきたい…
 
+[[KaraSの略語設計]]
