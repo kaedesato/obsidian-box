@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-13T13:52
+modified: 2025-10-09T13:42
 ---
 
 
@@ -17,3 +17,6 @@ modified: 2025-05-13T13:52
 
 なんかFirefoxでLineSeed OTF選んだら、太字になって、みずらくなった。
 TTFなら普通に表示された。
+
+なんか、バリアブルはTTFにしか無い？わかんない。
+Google FontはTTF？
