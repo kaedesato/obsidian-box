@@ -1,5 +1,5 @@
 ---
-modified: 2025-10-14T14:13
+modified: 2025-10-14T14:53
 ---
 
 [Karas - Google スプレッドシート](https://docs.google.com/spreadsheets/d/1PwH98b0rkI0yCFDtVBpJE3faYiAO-95hJOz2bsXHOpQ/edit?usp=sharing)
@@ -16,10 +16,19 @@ modified: 2025-10-14T14:13
 - 1音節をもっとかんたんに打てるようにしたい
 	- ん、っ、ーのキーを作る？
 - JSON辞書でLapwingに組み込めるように開発。
-	- JSON辞書はPythonでせいせいでい
-- 
+	- 基本音節、動詞、名詞、略語その他、コマンドなどで辞書分ける。
+	- Lapwingとすぐ切り替えられるようにする。
+		- 辞書の切り替えコマンドあった気がする。
+		-  `"{PLOVER:toggle_dictionaries=karas.json}"`
+
+
+[Dictionary format - Plover Wiki](https://plover.wiki/index.php/Dictionary_format)
+
 
 [[新しい日本語ステノを開発したいなと思ったけど、モチベーションがなくなったのでコンセプトだけ書いておくので、誰か引き継いでほしい]]
+
+
+
 
 
 
