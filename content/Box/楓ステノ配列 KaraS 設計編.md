@@ -1,5 +1,5 @@
 ---
-modified: 2025-10-09T16:59
+modified: 2025-10-14T14:13
 ---
 
 [Karas - Google スプレッドシート](https://docs.google.com/spreadsheets/d/1PwH98b0rkI0yCFDtVBpJE3faYiAO-95hJOz2bsXHOpQ/edit?usp=sharing)
@@ -15,6 +15,9 @@ modified: 2025-10-09T16:59
 	- 防衛とかいらない
 - 1音節をもっとかんたんに打てるようにしたい
 	- ん、っ、ーのキーを作る？
+- JSON辞書でLapwingに組み込めるように開発。
+	- JSON辞書はPythonでせいせいでい
+- 
 
 [[新しい日本語ステノを開発したいなと思ったけど、モチベーションがなくなったのでコンセプトだけ書いておくので、誰か引き継いでほしい]]
 
