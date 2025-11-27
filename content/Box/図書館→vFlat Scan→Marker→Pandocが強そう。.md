@@ -1,5 +1,5 @@
 ---
-modified: 2025-11-28T02:03
+modified: 2025-11-28T03:09
 ---
 
 
@@ -20,6 +20,9 @@ Marker自体にOCRの機能があるらしく、それ使ったほうがいい�
 ローカルアプリ。CPUで動く。
 
 MinerUというMarkerに似たツールも有る。
+
+Markerなんかだめかも…
+
 
 ### Pandoc
 Markdownをepubにするアプリ。
@@ -52,3 +55,6 @@ marker_gui
 初回のサイトアクセス時にモデルのダウンロードとかを行うので少し時間がかかる。
 
 CPUだと遅い…CUDAかROCm入れておいたほうがいい。
+
+
+[TheRock/RELEASES.md at main · ROCm/TheRock · GitHub](https://github.com/ROCm/TheRock/blob/main/RELEASES.md)
