@@ -1,5 +1,5 @@
 ---
-modified: 2025-11-28T00:34
+modified: 2025-11-28T02:03
 ---
 
 
@@ -38,3 +38,17 @@ Markdownをepubにするアプリ。
 
 ### いったん手元にある道具だけでやってみる！
 
+
+
+### Markerのインストール
+Python（PiP）が入っている前提
+
+```shell
+pip install marker-pdf[full]
+pip install streamlit streamlit-ace
+marker_gui
+```
+
+初回のサイトアクセス時にモデルのダウンロードとかを行うので少し時間がかかる。
+
+CPUだと遅い…CUDAかROCm入れておいたほうがいい。
