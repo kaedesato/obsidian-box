@@ -1,5 +1,5 @@
 ---
-modified: 2025-11-28T03:09
+modified: 2025-11-28T13:11
 ---
 
 
@@ -22,11 +22,14 @@ Marker自体にOCRの機能があるらしく、それ使ったほうがいい�
 MinerUというMarkerに似たツールも有る。
 
 Markerなんかだめかも…
-
+Datalab（MarkerのSaaS版）を使ったらめちゃめちゃいい感じになった。
+MarkdownよりHTMLで出力したほうが、1ファイルで運べるから良さそう。
 
 ### Pandoc
 Markdownをepubにするアプリ。
 正直なくても良い。
+
+
 
 ---
 
