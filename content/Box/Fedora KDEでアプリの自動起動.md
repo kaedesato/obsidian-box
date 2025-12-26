@@ -13,3 +13,4 @@ Exec=/bin/sh -c "sleep 2; /usr/bin/flatpak run com.discordapp.Discord "
 ```
 
 ちなみに隠しファイルの表示は`Ctrl + H`でできる
+
