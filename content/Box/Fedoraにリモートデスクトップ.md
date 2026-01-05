@@ -1,5 +1,5 @@
 ---
-modified: 2026-01-05T09:40
+modified: 2026-01-05T10:27
 ---
 
 
@@ -13,9 +13,10 @@ sudo tailscale up
 
 
 Sunshineのインストール
+Fedora43はいまPrereleseしか対応してない
 
 ```sh
-flatpak install --system flathub dev.lizardbyte.app.Sunshine
-flatpak run --command=additional-install.sh dev.lizardbyte.app.Sunshine
+
+
 
 ```
