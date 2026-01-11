@@ -1,5 +1,5 @@
 ---
-modified: 2026-01-11T14:59
+modified: 2026-01-11T15:28
 ---
   
 
@@ -7,12 +7,18 @@ modified: 2026-01-11T14:59
 
 [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-  
+
+インストール
 ``` shell
 sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
 sudo chmod a+rx /usr/local/bin/yt-dlp
 ```
 
+
+常にnodeランタイムを指定
+```sh
+alias yt-dlp='yt-dlp --js-runtime node'
+```
   
 
 ---
