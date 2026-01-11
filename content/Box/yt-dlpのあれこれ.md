@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-13T13:52
+modified: 2026-01-11T14:59
 ---
   
 
@@ -8,8 +8,10 @@ modified: 2025-05-13T13:52
 [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
   
-
-  
+``` shell
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+sudo chmod a+rx /usr/local/bin/yt-dlp
+```
 
   
 
@@ -23,7 +25,7 @@ modified: 2025-05-13T13:52
 
   
 
-```JavaScript
+``` sh
 --live-from-start 
 ```
 
