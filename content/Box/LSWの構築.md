@@ -1,5 +1,5 @@
 ---
-modified: 2026-01-12T14:16
+modified: 2026-01-12T15:28
 ---
 
 > [!important] 多分Wine/Bottlesより安定する
@@ -54,4 +54,9 @@ sudo usermod -aG libvirt $(whoami)
 
 
 
-sudo dnf install virtio-win
+Virtioのインストール
+VMの中からもインストールできる
+
+ビデオをVirtioにして3D アクセラレーションを有効化、ディスプレイのリッスンタイプをなしでOpenGLにチェック
+→なんか文字が読みにくくなった…
+
