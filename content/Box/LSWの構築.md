@@ -1,5 +1,5 @@
 ---
-modified: 2026-01-12T13:40
+modified: 2026-01-12T14:16
 ---
 
 > [!important] 多分Wine/Bottlesより安定する
@@ -51,12 +51,7 @@ sudo usermod -aG libvirt $(whoami)
 **※ここで一度、PCを再起動（またはログアウト＆ログイン）してください。** これをしないとグループ追加が反映されず、Virt-Managerがエラーを吐くことがあります。
 
 
-### 3. 次のステップ
 
-再起動後、メニューから **「仮想マシンマネージャー (Virtual Machine Manager)」** を起動してください。
 
-Windows 10 または 11 の ISOファイルは持っていますか？
 
-もし持っていれば、インストールを進めて、RebocapのUSBドングルを仮想マシンに接続（パススルー）する方法を案内します。
-
-ISOの準備状況だけ教えてください！
+sudo dnf install virtio-win
