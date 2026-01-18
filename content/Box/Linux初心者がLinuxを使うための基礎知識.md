@@ -1,5 +1,5 @@
 ---
-modified: 2026-01-02T08:03
+modified: 2026-01-02T08:04
 ---
 
 
@@ -53,6 +53,9 @@ Linuxといってもいろいろある。
 | SteamOS   | 💀    |     |
 
 ### おすすめじゃないLinux
+- Ubuntu
+- SteamOS
+- ArchLinux
 
 Ubuntuはやめといたほうがいい・・・
 情報が一番多いからよくおすすめされるけど・・・
