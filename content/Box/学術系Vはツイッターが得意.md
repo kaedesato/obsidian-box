@@ -1,6 +1,10 @@
 ---
-modified: 2025-01-05T18:37
+modified: 2026-01-22T03:59
 ---
-# 学術系Vはツイッターが得意
 
-https://twitter.com/vt_pharma?t=TNrANUsj6iZ1Kcjj9-WgHA&s=09
+Xのフォロワー >>>> YouTubeチャンネル登録者数
+になりがち
+
+
+- https://x.com/vt_pharma
+- 
