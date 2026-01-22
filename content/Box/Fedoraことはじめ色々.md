@@ -1,5 +1,5 @@
 ---
-modified: 2025-12-27T21:16
+modified: 2026-01-23T01:16
 ---
 
 ### Fedoraインストール
@@ -16,6 +16,20 @@ Fedoraは初期設定で、自由ライセンスではないアプリケーシ�
 もし閉じてしまっても、Fedoraのメニューから「ようこそ」とか「Welcome」で検索すると出せる。
 
 CLI操作ができる人は自分で調べてやって。Fedora公式サイトにある。
+
+
+###  ソフトのインストール、アップデートの高速化
+
+dnfのの設定を変更する
+
+```sh
+sudo nano /etc/dnf/dnf.conf
+```
+
+```sh
+max_parallel_downloads=20
+fastestmirror=True
+```
 
 
 ###  日本語環境の整備
