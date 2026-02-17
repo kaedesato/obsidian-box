@@ -1,5 +1,5 @@
 ---
-modified: 2026-01-23T01:16
+modified: 2026-02-18T01:14
 ---
 
 ### Fedoraインストール
@@ -63,3 +63,11 @@ Flatpak, DNF, AppImage, 手動（sh）がある。
 	- Zen
 	- Obsidian
 - appimage
+
+
+### 中クリックでペーストを無効化
+
+ワークスペース
+全体的な挙動
+にある設定をいじる。
+再起動必要。
