@@ -1,17 +1,17 @@
 ---
-modified: 2026-03-05T17:03
+modified: 2026-03-05T18:35
 ---
 
 Cafe Mapleユーザー向け手順
 
 1. Misskeyの方で[@bsky.brid.gy@bsky.brid.gy](https://cafemaple.cc/@bsky.brid.gy@bsky.brid.gy)をフォローする
-	- これだけでも
+	- これだけでも、Blueskyのほうにアカウントがつくられます
 2. @bsky.brid.gy@bsky.brid.gy に対して didとDMを送る
-	コピペよう
+	コピペ用
 	```txt
 	@bsky.brid.gy@bsky.brid.gy did
 	```
-3. 
+3. 帰ってきたdidを@kaede
 
 
 
