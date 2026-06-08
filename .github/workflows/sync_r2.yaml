@@ -23,7 +23,7 @@ jobs:
 
     # AWS S3 との同期 ... (2)
     - name: Fetch data from S3
-      run: aws s3 sync s3://obsidian ./content --delete --endpoint-url "${{ secrets.S3_URL }}"
+      run: aws s3 sync s3://kaedeobsidian ./content --delete --endpoint-url "${{ secrets.S3_URL }}"
 
     # gitの差分がないときにコミットしないようにチェック ... (3)
     - name: check for changes
