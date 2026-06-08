@@ -1,5 +1,5 @@
 ---
-modified: 2026-01-03T12:15
+modified: 2026-05-20T16:08
 ---
 
 
@@ -11,6 +11,9 @@ modified: 2026-01-03T12:15
 - AMD&AMDの環境なら、SteamOSの恩恵を受けれる
 	- SteamOSはSteamデバイスに特化しすぎているので、Bazziteとかがおすすめ。
 - これからはAMDの時代が来る…来てほしい…！
+
+
+
 
 
 
@@ -72,3 +75,42 @@ Steamが開発しているProtonとかドライバーは、実はオープンソ
 **(6:30) エンディング：AMDの時代への期待** 「ハードウェアのバランスと、ソフトウェアの執念。この2つが噛み合った時、PCゲーミングは新しいフェーズに入ります。 IntelとNVIDIAが支配的だった時代から、オープンソースドライバーを武器にしたAMDとValveの時代へ。 このパラダイムシフトを、今後も注視していきたいと思います。
 
 それでは、また次回の動画でお会いしましょう。」
+
+
+---
+
+### メモ
+
+steam machine スペック
+
+CPU セミカスタムAMD Zen 4 6C / 12T
+最大4.8 GHz、30W TDP
+
+GPU セミカスタムAMD RDNA3 28CU
+最大持続クロック2.45GHz、TDP 110W
+
+RAM
+16GB DDR5 + 8GB GDDR6 VRAM
+
+サイズ
+高さ152mm（脚を除くと148mm）、奥行き162.4mm、幅156mm
+3.8L
+
+重量
+2.6kg
+
+AtomMan 3.8L 26万円 5060 VRAM 8GB
+Zotac 2.6L 35万円 5070ti VRAM16GB
+
+
+ドライバー MESA
+Vulkan RADV
+コンパイラ ACO
+
+
+一部のタイトルと言うより大体のタイトルでSteamOSが勝ってる
+[SteamOS tested on dedicated GPUs: No, it’s not always faster than Windows - Ars Technica](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/)
+
+
+AMDがMesaに注力するというアプデ
+[Radeon™ Software for Linux® 25.20.3 Release Notes](https://www.amd.com/en/resources/support-articles/release-notes/RN-AMDGPU-UNIFIED-LINUX-25-20-3.html)

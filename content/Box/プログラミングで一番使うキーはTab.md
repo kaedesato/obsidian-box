@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-04T13:16
+modified: 2025-12-10T11:06
 ---
 
 CursorとかCopilotとかでほぼ住むので、Tabが圧倒的に使うかなと思う。

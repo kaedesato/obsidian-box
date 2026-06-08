@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-19T11:55
+modified: 2025-12-10T11:06
 ---
 
 [Install daisyUI for SvelteKit — Tailwind CSS Components ( version 5 update is here )](https://daisyui.com/docs/install/sveltekit/)

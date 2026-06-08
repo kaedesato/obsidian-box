@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-06T16:34
+modified: 2026-06-01T20:20
 ---
 
 Cafe Mapleユーザー向け手順
@@ -8,7 +8,7 @@ Cafe Mapleユーザー向け手順
 これだけでも、Blueskyのほうにアカウントがつくられます
 
 以下の作業は1で作ったアカウントのIDを変更する手順です。
-Cafe Mapleのユーザーであれば@*ID*.cafemaple.ccのIDに変更できます。
+Cafe Mapleのユーザーであれば@`ID`.cafemaple.ccのIDに変更できます。
 ※わたしが手動でやらないといけない部分があるので連絡ください。
 
 ### 2. @bsky.brid.gy@bsky.brid.gy に対して didとDMを送る
@@ -48,3 +48,18 @@ username @ID.cafemaple.cc
 
 
 BlueskyユーザーがMisskey
+
+
+---
+
+わたし用マニュアル
+
+We want to add a TXT (text) record to your domain. Step 3 above contains all of the information you’ll need to add to your domain. The DID value is public and not sensitive information.
+
+Set the domain: `_atproto.YOUR_ID`
+Set the type: `TXT`
+Set the value field (also sometimes called “data”), except use your own DID value: `did=did:plc:your value here`
+
+
+終わったらここでチェック
+https://bsky-debug.app/handle
