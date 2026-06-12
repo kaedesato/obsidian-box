@@ -4,3 +4,4 @@ views:
     filters:
       and:
         - modified.isEmpty()
+        - file.folder == "Box"
