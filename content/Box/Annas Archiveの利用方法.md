@@ -1,16 +1,14 @@
 ---
-modified: 2026-06-14T06:15
+modified: 2026-06-14T06:49
 ---
 
 
 ### アクセス
 
 基本VPNを使えばOK
-Cloudflare Warpが一番手軽。Warpは相手側へはIPとかがバレるけど...
-相手側がIP漏らさない限りは大丈夫。
-
+Cloudflare Warpが一番手軽。WarpはAA側へはIPとかがバレるけど...
+AA側がIP漏らさない限りは大丈夫。[^1]
 心配だったら、Torとか使えばいい。
-
 
 
 
@@ -28,5 +26,11 @@ Cloudflare Warpが一番手軽。Warpは相手側へはIPとかがバレるけ�
 
 アップロードは頻度が低いのに対して、リスクが高いので、Torを使ったほうがいい。
 
+Annas Archiveはあくまでも
+
 > 小規模なアップロード（最大10,000ファイル）の場合は、[Z-Library](https://z-lib.gd/book-add) と [Libgen.li](https://libgen.li/librarian.php) の両方にアップロードしてください。
 
+LibgenとZ-libraryはリクエストもできる。
+
+[^1]: 仮にAA側がIPを漏らしたとしてもAAにアクセスしてる膨大なIPのリストを精査するのは難しい。
+	→ 他のリストと照合するっていうアプローチはある
