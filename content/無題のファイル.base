@@ -1,7 +1,0 @@
-views:
-  - type: table
-    name: 表
-    filters:
-      and:
-        - modified.isEmpty()
-        - file.folder == "Box"
